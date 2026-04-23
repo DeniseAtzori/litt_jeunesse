@@ -1,0 +1,615 @@
+title,author_gender,Gender,type
+1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux.book --- léon,1,0,1
+1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux.book --- zoé,1,1,1
+1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux.book --- césaro,1,1,1
+1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux.book --- aglaure,1,1,1
+1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux.book --- grignotte,1,1,2
+1835_Woillez-Catherine_Le-Robinson-des-demoiselles.book --- emma,1,1,1
+1835_Woillez-Catherine_Le-Robinson-des-demoiselles.book --- m. de surville,1,1,0
+1835_Woillez-Catherine_Le-Robinson-des-demoiselles.book --- azor,1,0,2
+1835_Woillez-Catherine_Le-Robinson-des-demoiselles.book --- dominique,1,1,0
+1835_Woillez-Catherine_Le-Robinson-des-demoiselles.book --- henriette,1,1,1
+1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart.book --- jean-paul,0,1,1
+1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart.book --- le marquis de la galoche,0,0,0
+1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart.book --- jean-paul et petit-jacques,0,0,5
+1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart.book --- petit-jacques,0,0,1
+1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart.book --- panouille,0,1,1
+1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations.book --- marie,1,1,1
+1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations.book --- léontine,1,1,1
+1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations.book --- édouard,1,1,0
+1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations.book --- madame de vardreck,1,1,0
+1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations.book --- noël,1,0,0
+1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette.book --- marie,0,1,1
+1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette.book --- carl,0,1,0
+1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette.book --- casse-noisette,0,0,3
+1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette.book --- le parrain drosselmayer,0,1,0
+1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette.book --- fritz,0,0,1
+1846_Musset-Paul-de_Monsieur-le-Vent-et-Madame-la-Pluie.book --- jean-pierre,0,1,0
+1846_Musset-Paul-de_Monsieur-le-Vent-et-Madame-la-Pluie.book --- pierrot,0,0,1
+1846_Musset-Paul-de_Monsieur-le-Vent-et-Madame-la-Pluie.book --- m. le vent,0,0,0
+1846_Musset-Paul-de_Monsieur-le-Vent-et-Madame-la-Pluie.book --- madame la pluie,0,1,0
+1846_Musset-Paul-de_Monsieur-le-Vent-et-Madame-la-Pluie.book --- claudine,0,1,0
+1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues.book --- edma,1,1,1
+1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues.book --- luigi,1,0,0
+1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues.book --- franck,1,0,0
+1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues.book --- mme de senneville,1,1,0
+1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues.book --- marguerite,1,1,0
+1851_Sand-George_Histoire-du-veritable-Gribouille.book --- gribouille,1,0,1
+1851_Sand-George_Histoire-du-veritable-Gribouille.book --- m. bourdon,1,1,2
+1851_Sand-George_Histoire-du-veritable-Gribouille.book --- char3,1,1,5
+1851_Sand-George_Histoire-du-veritable-Gribouille.book --- du roi bourdon,1,0,5
+1851_Sand-George_Histoire-du-veritable-Gribouille.book --- char5,1,1,5
+1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne.book --- jeanne,1,1,1
+1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne.book --- grand louis,1,1,0
+1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne.book --- le père tixier,1,1,0
+1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne.book --- la mère nannette,1,1,0
+1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne.book --- maître tixier,1,1,0
+1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse.book --- clotilde,1,1,0
+1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse.book --- valentine,1,1,1
+1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse.book --- bérangère,1,1,1
+1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse.book --- lionel,1,0,1
+1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse.book --- léon,1,1,0
+1854_Dumas-Alexandre_La-jeunesse-de-Pierrot.book --- pierrot,0,1,2
+1854_Dumas-Alexandre_La-jeunesse-de-Pierrot.book --- roi de bohême,0,0,0
+1854_Dumas-Alexandre_La-jeunesse-de-Pierrot.book --- fleur - d' amandier,0,1,1
+1854_Dumas-Alexandre_La-jeunesse-de-Pierrot.book --- le prince azor,0,1,0
+1854_Dumas-Alexandre_La-jeunesse-de-Pierrot.book --- roi de bohême,0,0,0
+1855_Solignac-Armand-de_Le-Gateau-des-rois-souvenirs-d-enfance.book --- le père ignace,0,1,0
+1855_Solignac-Armand-de_Le-Gateau-des-rois-souvenirs-d-enfance.book --- adeline,0,1,1
+1855_Solignac-Armand-de_Le-Gateau-des-rois-souvenirs-d-enfance.book --- marie,0,1,1
+1855_Solignac-Armand-de_Le-Gateau-des-rois-souvenirs-d-enfance.book --- piétro,0,0,0
+1855_Solignac-Armand-de_Le-Gateau-des-rois-souvenirs-d-enfance.book --- antonio,0,1,0
+1858_Gouraud-Julie_Les-Vacances-d-Yvonne.book --- yvonne,1,1,1
+1858_Gouraud-Julie_Les-Vacances-d-Yvonne.book --- netta,1,1,1
+1858_Gouraud-Julie_Les-Vacances-d-Yvonne.book --- madame de néris,1,1,0
+1858_Gouraud-Julie_Les-Vacances-d-Yvonne.book --- gustave,1,0,1
+1858_Gouraud-Julie_Les-Vacances-d-Yvonne.book --- hélène,1,1,1
+1858_Segur-comtesse-de_Les-Petites-Filles-Modeles.book --- sophie,1,1,1
+1858_Segur-comtesse-de_Les-Petites-Filles-Modeles.book --- marguerite,1,1,1
+1858_Segur-comtesse-de_Les-Petites-Filles-Modeles.book --- madeleine,1,1,1
+1858_Segur-comtesse-de_Les-Petites-Filles-Modeles.book --- camille,1,1,1
+1858_Segur-comtesse-de_Les-Petites-Filles-Modeles.book --- mme de rosbourg,1,1,0
+1858_Segur-comtesse-de_Les-Malheurs-de-Sophie.book --- sophie,1,1,1
+1858_Segur-comtesse-de_Les-Malheurs-de-Sophie.book --- paul,1,0,1
+1858_Segur-comtesse-de_Les-Malheurs-de-Sophie.book --- mme de réan,1,1,0
+1858_Segur-comtesse-de_Les-Malheurs-de-Sophie.book --- sophie et paul,1,1,5
+1858_Segur-comtesse-de_Les-Malheurs-de-Sophie.book --- beau-minon,1,0,2
+1858_Pressense-Elise-de_Rosa.book --- rosa,1,1,1
+1858_Pressense-Elise-de_Rosa.book --- madame reynold,1,1,0
+1858_Pressense-Elise-de_Rosa.book --- cécile,1,1,1
+1858_Pressense-Elise-de_Rosa.book --- alfred,1,0,0
+1858_Pressense-Elise-de_Rosa.book --- marthe,1,1,0
+1859_Segur-comtesse-de_Les-Vacances.book --- m. de rosbourg,1,1,0
+1859_Segur-comtesse-de_Les-Vacances.book --- sophie,1,1,1
+1859_Segur-comtesse-de_Les-Vacances.book --- paul,1,0,1
+1859_Segur-comtesse-de_Les-Vacances.book --- léon,1,1,1
+1859_Segur-comtesse-de_Les-Vacances.book --- camille,1,1,1
+1860_Segur-comtesse-de_Les-Memoires-d-un-ane.book --- cadichon,1,1,2
+1860_Segur-comtesse-de_Les-Memoires-d-un-ane.book --- auguste,1,1,1
+1860_Segur-comtesse-de_Les-Memoires-d-un-ane.book --- jacques,1,0,1
+1860_Segur-comtesse-de_Les-Memoires-d-un-ane.book --- georget,1,1,1
+1860_Segur-comtesse-de_Les-Memoires-d-un-ane.book --- henri,1,0,1
+1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat.book --- paolo,1,0,1
+1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat.book --- angélia,1,1,1
+1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat.book --- clément,1,0,0
+1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat.book --- paléro,1,1,1
+1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat.book --- édouard,1,0,0
+1861_Segur-comtesse-de_Pauvre-Blaise.book --- blaise,1,0,1
+1861_Segur-comtesse-de_Pauvre-Blaise.book --- jules,1,1,0
+1861_Segur-comtesse-de_Pauvre-Blaise.book --- papa,1,1,0
+1861_Segur-comtesse-de_Pauvre-Blaise.book --- m. jules,1,1,0
+1861_Segur-comtesse-de_Pauvre-Blaise.book --- hélène,1,1,0
+1862_Segur-comtesse-de_La-soeur-de-Gribouille.book --- gribouille,1,1,1
+1862_Segur-comtesse-de_La-soeur-de-Gribouille.book --- caroline,1,1,1
+1862_Segur-comtesse-de_La-soeur-de-Gribouille.book --- michel,1,1,0
+1862_Segur-comtesse-de_La-soeur-de-Gribouille.book --- mme delmis,1,1,0
+1862_Segur-comtesse-de_La-soeur-de-Gribouille.book --- m. delmis,1,0,0
+1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse.book --- marianne,1,0,0
+1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse.book --- louise,1,1,1
+1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse.book --- pierre,1,0,1
+1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse.book --- claude,1,1,1
+1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse.book --- claire,1,0,1
+1863_Farrenc-Cesarie_La-jalousie.book --- fanny,1,1,1
+1863_Farrenc-Cesarie_La-jalousie.book --- mme maujean,1,1,0
+1863_Farrenc-Cesarie_La-jalousie.book --- léon,1,1,1
+1863_Farrenc-Cesarie_La-jalousie.book --- marguerite,1,1,0
+1863_Farrenc-Cesarie_La-jalousie.book --- ninie,1,1,1
+1863_Segur-comtesse-de_Les-deux-nigauds.book --- innocent,1,1,1
+1863_Segur-comtesse-de_Les-deux-nigauds.book --- coz,1,1,0
+1863_Segur-comtesse-de_Les-deux-nigauds.book --- mme bonbeck,1,1,0
+1863_Segur-comtesse-de_Les-deux-nigauds.book --- simplicie,1,1,1
+1863_Segur-comtesse-de_Les-deux-nigauds.book --- prudence,1,1,0
+1864_Segur-comtesse-de_François-le-Bossu.book --- christine,1,1,1
+1864_Segur-comtesse-de_François-le-Bossu.book --- m. de nancé,1,1,0
+1864_Segur-comtesse-de_François-le-Bossu.book --- françois,1,0,1
+1864_Segur-comtesse-de_François-le-Bossu.book --- maurice,1,0,1
+1864_Segur-comtesse-de_François-le-Bossu.book --- mme des ormes,1,1,0
+1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille.book --- gribouille,0,1,0
+1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille.book --- la mère michel,0,1,0
+1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille.book --- le père thomas,0,0,0
+1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille.book --- biribi,0,0,2
+1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille.book --- jean gribouille,0,0,0
+1865_Kaempfen-Albert_La-Tasse-a-the.book --- sir edmund,0,0,0
+1865_Kaempfen-Albert_La-Tasse-a-the.book --- m. harrisson,0,0,0
+1865_Kaempfen-Albert_La-Tasse-a-the.book --- chung - tso,0,1,0
+1865_Kaempfen-Albert_La-Tasse-a-the.book --- tchao - wa,0,1,0
+1865_Kaempfen-Albert_La-Tasse-a-the.book --- miss aurora,0,1,0
+1866_Segur-comtesse-de_Un-Bon-Petit-Diable.book --- charles,1,1,1
+1866_Segur-comtesse-de_Un-Bon-Petit-Diable.book --- mme mac' miche,1,1,0
+1866_Segur-comtesse-de_Un-Bon-Petit-Diable.book --- juliette,1,1,1
+1866_Segur-comtesse-de_Un-Bon-Petit-Diable.book --- marianne,1,1,0
+1866_Segur-comtesse-de_Un-Bon-Petit-Diable.book --- betty,1,1,0
+1866_Muller-Rene_Les-Enfants-gates.book --- adrien,0,0,1
+1866_Muller-Rene_Les-Enfants-gates.book --- mme duvivier,0,1,0
+1866_Muller-Rene_Les-Enfants-gates.book --- victor,0,0,1
+1866_Muller-Rene_Les-Enfants-gates.book --- charles,0,1,1
+1866_Muller-Rene_Les-Enfants-gates.book --- cécile,0,1,1
+1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit.book --- jeannot,1,1,1
+1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit.book --- jean,1,0,1
+1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit.book --- kersac,1,1,0
+1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit.book --- simon,1,1,0
+1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit.book --- hélène,1,1,0
+1866_Gouraud-Julie_Mémoires-d'un-caniche.book --- césar,1,0,2
+1866_Gouraud-Julie_Mémoires-d'un-caniche.book --- henriette,1,1,1
+1866_Gouraud-Julie_Mémoires-d'un-caniche.book --- andré,1,0,0
+1866_Gouraud-Julie_Mémoires-d'un-caniche.book --- m. nelville,1,1,0
+1866_Gouraud-Julie_Mémoires-d'un-caniche.book --- jacques,1,1,0
+1867_Sauquet-Victor_L-Enfant-des-montagnes.book --- julien,0,0,0
+1867_Sauquet-Victor_L-Enfant-des-montagnes.book --- joseph,0,0,0
+1867_Sauquet-Victor_L-Enfant-des-montagnes.book --- abd - el - kader,0,0,0
+1867_Sauquet-Victor_L-Enfant-des-montagnes.book --- goliath,0,0,0
+1867_Sauquet-Victor_L-Enfant-des-montagnes.book --- les ouled - rhia,0,0,5
+1867_Pitray-Olga-de-Segur_Les-enfants-des-Tuileries.book --- julien,1,1,1
+1867_Pitray-Olga-de-Segur_Les-enfants-des-Tuileries.book --- élisabeth,1,1,1
+1867_Pitray-Olga-de-Segur_Les-enfants-des-Tuileries.book --- irène,1,1,1
+1867_Pitray-Olga-de-Segur_Les-enfants-des-Tuileries.book --- armand,1,0,1
+1867_Pitray-Olga-de-Segur_Les-enfants-des-Tuileries.book --- m. de valmier,1,0,0
+1867_Pressense-Elise-de_Deux-ans-au-lycee.book --- gabriel,1,0,1
+1867_Pressense-Elise-de_Deux-ans-au-lycee.book --- madame sorbier,1,1,0
+1867_Pressense-Elise-de_Deux-ans-au-lycee.book --- raoul,1,1,1
+1867_Pressense-Elise-de_Deux-ans-au-lycee.book --- hélène,1,1,1
+1867_Pressense-Elise-de_Deux-ans-au-lycee.book --- francine,1,1,1
+1867_Houssaye-Arsene_La-Pantoufle-de-Cendrillon-ou-Suzanne-aux-coquelicots.book --- suzanne,0,1,1
+1867_Houssaye-Arsene_La-Pantoufle-de-Cendrillon-ou-Suzanne-aux-coquelicots.book --- robert,0,0,1
+1867_Houssaye-Arsene_La-Pantoufle-de-Cendrillon-ou-Suzanne-aux-coquelicots.book --- la fée aurore,0,1,0
+1867_Houssaye-Arsene_La-Pantoufle-de-Cendrillon-ou-Suzanne-aux-coquelicots.book --- rubicon,0,1,1
+1867_Houssaye-Arsene_La-Pantoufle-de-Cendrillon-ou-Suzanne-aux-coquelicots.book --- char5,,0,5
+1867_Marcel-Jeanne_Les-petits-vagabonds.book --- césar et aimée,1,0,5
+1867_Marcel-Jeanne_Les-petits-vagabonds.book --- sabin,1,0,0
+1867_Marcel-Jeanne_Les-petits-vagabonds.book --- balthasar,1,0,2
+1867_Marcel-Jeanne_Les-petits-vagabonds.book --- césar,1,0,1
+1867_Marcel-Jeanne_Les-petits-vagabonds.book --- les incendiaires de villeneuve-le-roi,1,0,5
+1867_Gouraud-Julie_Le-petit-colporteur.book --- pierre,1,0,1
+1867_Gouraud-Julie_Le-petit-colporteur.book --- lolotte,1,1,1
+1867_Gouraud-Julie_Le-petit-colporteur.book --- christine,1,1,1
+1867_Gouraud-Julie_Le-petit-colporteur.book --- madeleine,1,1,0
+1867_Gouraud-Julie_Le-petit-colporteur.book --- m. vincent,1,1,0
+1867_Savigny-Laurence-de_Le-Robinson-des-Alpes.book --- lucien,0,0,1
+1867_Savigny-Laurence-de_Le-Robinson-des-Alpes.book --- édouard et lucien,0,1,5
+1867_Savigny-Laurence-de_Le-Robinson-des-Alpes.book --- m. de laverny,0,0,0
+1867_Savigny-Laurence-de_Le-Robinson-des-Alpes.book --- le comte de laverny,0,1,0
+1867_Savigny-Laurence-de_Le-Robinson-des-Alpes.book --- édouard,0,0,1
+1868_Gouraud-Julie_L-Enfant-du-guide.book --- franz,1,1,1
+1868_Gouraud-Julie_L-Enfant-du-guide.book --- mme saint-victor,1,1,0
+1868_Gouraud-Julie_L-Enfant-du-guide.book --- lhena,1,1,0
+1868_Gouraud-Julie_L-Enfant-du-guide.book --- m. hallouin,1,1,0
+1868_Gouraud-Julie_L-Enfant-du-guide.book --- dorothée,1,1,0
+1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere.book --- mme moreau,1,1,0
+1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere.book --- ernest,1,1,1
+1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere.book --- sarah,1,1,1
+1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere.book --- lucile,1,1,1
+1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere.book --- oscar,1,0,1
+1872_Gouraud-Julie_Le-Livre-de-maman.book --- yvonne,1,1,1
+1872_Gouraud-Julie_Le-Livre-de-maman.book --- ma chère marie,1,1,0
+1872_Gouraud-Julie_Le-Livre-de-maman.book --- auguste,1,1,1
+1872_Gouraud-Julie_Le-Livre-de-maman.book --- constance,1,1,1
+1872_Gouraud-Julie_Le-Livre-de-maman.book --- suzanne,1,1,0
+1873_Gouraud-Julie_Petite-et-grande.book --- agnès,1,1,1
+1873_Gouraud-Julie_Petite-et-grande.book --- m. saint-florent,1,0,0
+1873_Gouraud-Julie_Petite-et-grande.book --- mme de flines,1,1,0
+1873_Gouraud-Julie_Petite-et-grande.book --- mme esther,1,1,0
+1873_Gouraud-Julie_Petite-et-grande.book --- christian,1,0,1
+1873_Pressense-Elise-de_Un-petit-monde-d-enfants.book --- madame martel,1,1,0
+1873_Pressense-Elise-de_Un-petit-monde-d-enfants.book --- lydie,1,1,1
+1873_Pressense-Elise-de_Un-petit-monde-d-enfants.book --- maurice,1,1,1
+1873_Pressense-Elise-de_Un-petit-monde-d-enfants.book --- madeleine,1,1,1
+1873_Pressense-Elise-de_Un-petit-monde-d-enfants.book --- henriette,1,1,1
+1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison.book --- jacques,1,0,1
+1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison.book --- tancrède,1,0,1
+1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison.book --- mme bertrand,1,1,0
+1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison.book --- joseph,1,1,0
+1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison.book --- trotte - menu,1,1,1
+1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison.book --- paul,0,0,0
+1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison.book --- m. paul,0,0,5
+1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison.book --- le père branchu,0,1,0
+1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison.book --- marie,0,1,0
+1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison.book --- m. de gandelau,0,0,0
+1874_Stolz-Madame-de_Les-Poches-de-mon-oncle.book --- florent,1,0,0
+1874_Stolz-Madame-de_Les-Poches-de-mon-oncle.book --- m. bedlok,1,0,0
+1874_Stolz-Madame-de_Les-Poches-de-mon-oncle.book --- perrin,1,0,1
+1874_Stolz-Madame-de_Les-Poches-de-mon-oncle.book --- germaine,1,1,1
+1874_Stolz-Madame-de_Les-Poches-de-mon-oncle.book --- lucette,1,1,1
+1874_Fleuriot-Zenaide_Armelle-Trahec.book --- gunstan,1,1,1
+1874_Fleuriot-Zenaide_Armelle-Trahec.book --- madame de kerpeulvan,1,1,0
+1874_Fleuriot-Zenaide_Armelle-Trahec.book --- nola,1,1,1
+1874_Fleuriot-Zenaide_Armelle-Trahec.book --- armelle,1,1,0
+1874_Fleuriot-Zenaide_Armelle-Trahec.book --- m. de kerpeulvan,1,0,0
+1874_Witt-Henriette-de_Une-soeur.book --- élisabeth,1,1,0
+1874_Witt-Henriette-de_Une-soeur.book --- marc,1,0,1
+1874_Witt-Henriette-de_Une-soeur.book --- henri,1,1,1
+1874_Witt-Henriette-de_Une-soeur.book --- rené,1,1,0
+1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille.book --- joseph,0,0,1
+1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille.book --- julie,0,1,0
+1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille.book --- marguerite,0,1,1
+1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille.book --- jacques,0,0,0
+1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille.book --- édouard,0,1,1
+1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine.book --- jane,1,1,1
+1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine.book --- germaine,1,1,1
+1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine.book --- fernand,1,1,0
+1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine.book --- madame de guéblan,1,1,0
+1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine.book --- alfred,1,1,0
+1876_Chazel-Prosper_Le-Chalet-des-sapins.book --- zaféri,0,1,1
+1876_Chazel-Prosper_Le-Chalet-des-sapins.book --- marguerite,0,1,1
+1876_Chazel-Prosper_Le-Chalet-des-sapins.book --- le père girolt,0,0,0
+1876_Chazel-Prosper_Le-Chalet-des-sapins.book --- gottlieb,0,1,0
+1876_Chazel-Prosper_Le-Chalet-des-sapins.book --- maurice et moi,0,0,5
+1876_Gouraud-Julie_Les-Filles-du-professeur.book --- anne,1,1,1
+1876_Gouraud-Julie_Les-Filles-du-professeur.book --- hélène,1,1,1
+1876_Gouraud-Julie_Les-Filles-du-professeur.book --- adrien,1,1,1
+1876_Gouraud-Julie_Les-Filles-du-professeur.book --- mme liébert,1,1,0
+1876_Gouraud-Julie_Les-Filles-du-professeur.book --- m. de vrières,1,1,0
+1876_Gouraud-Julie_Les-Quatre-pièces-d'or.book --- rosine,1,1,1
+1876_Gouraud-Julie_Les-Quatre-pièces-d'or.book --- mlle brou,1,1,1
+1876_Gouraud-Julie_Les-Quatre-pièces-d'or.book --- vincent,1,0,0
+1876_Gouraud-Julie_Les-Quatre-pièces-d'or.book --- mme papon,1,1,0
+1876_Gouraud-Julie_Les-Quatre-pièces-d'or.book --- françoise,1,1,0
+1877_Bruno-G_Le-Tour-de-la-France-par-deux-enfants --- julien,1,0,1
+1877_Bruno-G_Le-Tour-de-la-France-par-deux-enfants --- andré,1,0,1
+"1877_Bruno-G_Le-Tour-de-la-France-par-deux-enfants --- andré et julien",1,0,5
+1877_Bruno-G_Le-Tour-de-la-France-par-deux-enfants --- oncle frantz,1,0,0
+1877_Bruno-G_Le-Tour-de-la-France-par-deux-enfants --- père guillaume,1,0,0
+1877_Fleuriot-Zenaide_Un-enfant-gate.book --- léopold,1,1,1
+1877_Fleuriot-Zenaide_Un-enfant-gate.book --- mme massereau,1,1,0
+1877_Fleuriot-Zenaide_Un-enfant-gate.book --- m. massereau,1,1,0
+1877_Fleuriot-Zenaide_Un-enfant-gate.book --- le colonel dauvellec,1,1,0
+1877_Fleuriot-Zenaide_Un-enfant-gate.book --- alfred,1,1,1
+1878_Gouraud-Julie_Cousine-Marie.book --- marie,1,1,1
+1878_Gouraud-Julie_Cousine-Marie.book --- m. delorme,1,1,0
+1878_Gouraud-Julie_Cousine-Marie.book --- madame solaville,1,1,0
+1878_Gouraud-Julie_Cousine-Marie.book --- angélique,1,1,0
+1878_Gouraud-Julie_Cousine-Marie.book --- paul,1,1,1
+1878_Chavannes-de-La-Giraudiere-Hippolyte-de_Patrice.book --- bryan,0,1,0
+1878_Chavannes-de-La-Giraudiere-Hippolyte-de_Patrice.book --- patrice,0,0,1
+1878_Chavannes-de-La-Giraudiere-Hippolyte-de_Patrice.book --- la famille bryan,0,1,5
+1878_Chavannes-de-La-Giraudiere-Hippolyte-de_Patrice.book --- victor,0,0,0
+1878_Chavannes-de-La-Giraudiere-Hippolyte-de_Patrice.book --- m. la place,0,1,0
+1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien.book --- cyprien,1,1,1
+1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien.book --- cyprienne,1,1,1
+1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien.book --- m. dubourg,1,0,0
+1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien.book --- zélie,1,1,1
+1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien.book --- mme rabuteau,1,1,0
+1878_Assollant-Alfred_Le-plus-hardi-des-gueux.book --- rienquivaille,0,0,0
+1878_Assollant-Alfred_Le-plus-hardi-des-gueux.book --- ninon,0,1,1
+1878_Assollant-Alfred_Le-plus-hardi-des-gueux.book --- monseigneur,0,1,0
+1878_Assollant-Alfred_Le-plus-hardi-des-gueux.book --- monsieur marteau,0,1,0
+1878_Assollant-Alfred_Le-plus-hardi-des-gueux.book --- saint-eustache,0,0,0
+1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais.book --- brunotta,0,1,1
+1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais.book --- pascarel,0,0,0
+1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais.book --- raffaëlino,0,1,1
+1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais.book --- l' uccello,0,0,1
+1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais.book --- ambrogio,0,1,0
+1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde.book --- adam,0,1,1
+1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde.book --- tsin,0,0,0
+1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde.book --- metek,0,1,0
+1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde.book --- des tribus de l' australie,0,1,5
+1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde.book --- william,0,0,1
+1880_Martignat-Mlle-de_L-Oncle-Boni.book --- daniel,1,0,1
+1880_Martignat-Mlle-de_L-Oncle-Boni.book --- mme de nanjac,1,1,0
+1880_Martignat-Mlle-de_L-Oncle-Boni.book --- l' oncle boni,1,0,0
+1880_Martignat-Mlle-de_L-Oncle-Boni.book --- gabiche,1,1,1
+1880_Martignat-Mlle-de_L-Oncle-Boni.book --- laplace,1,0,0
+1880_Fleuriot-Zenaide_Bonasse.book --- eugénie,1,1,1
+1880_Fleuriot-Zenaide_Bonasse.book --- jules,1,0,0
+1880_Fleuriot-Zenaide_Bonasse.book --- ange,1,1,1
+1880_Fleuriot-Zenaide_Bonasse.book --- juliette,1,1,1
+1880_Fleuriot-Zenaide_Bonasse.book --- tante thérèse,1,1,0
+1880_Gozlan-Leon_Aventures-merveilleuses-et-touchantes-du-prince-Chenevis-et-de-sa-jeune-soeur.book --- le prince chènevis,0,1,1
+1880_Gozlan-Leon_Aventures-merveilleuses-et-touchantes-du-prince-Chenevis-et-de-sa-jeune-soeur.book --- olympe,0,1,1
+1880_Gozlan-Leon_Aventures-merveilleuses-et-touchantes-du-prince-Chenevis-et-de-sa-jeune-soeur.book --- rol,0,0,0
+1880_Gozlan-Leon_Aventures-merveilleuses-et-touchantes-du-prince-Chenevis-et-de-sa-jeune-soeur.book --- auréole,0,0,2
+1880_Gozlan-Leon_Aventures-merveilleuses-et-touchantes-du-prince-Chenevis-et-de-sa-jeune-soeur.book --- topaze,0,0,2
+1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon.book --- agathe,1,1,0
+1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon.book --- tancrède,1,0,1
+1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon.book --- béatrix,1,1,1
+1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon.book --- m. du passage,1,1,0
+1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon.book --- tranquille,1,1,1
+1880_Gouraud-Julie_Aller-et-retour.book --- antoine,1,0,1
+1880_Gouraud-Julie_Aller-et-retour.book --- pauline,1,1,1
+1880_Gouraud-Julie_Aller-et-retour.book --- m. olivier,1,0,0
+1880_Gouraud-Julie_Aller-et-retour.book --- mme olivier,1,1,0
+1880_Gouraud-Julie_Aller-et-retour.book --- pierre,1,0,1
+1881_Colomb-Josephine_Feu-de-paille.book --- lucile,1,1,1
+1881_Colomb-Josephine_Feu-de-paille.book --- jacques,1,0,1
+1881_Colomb-Josephine_Feu-de-paille.book --- valentine,1,1,1
+1881_Colomb-Josephine_Feu-de-paille.book --- mme davery,1,1,0
+1881_Colomb-Josephine_Feu-de-paille.book --- frédéric,1,0,1
+1881_Fleuriot-Zenaide_Alberte.book --- alberte,1,1,1
+1881_Fleuriot-Zenaide_Alberte.book --- david,1,0,0
+1881_Fleuriot-Zenaide_Alberte.book --- luna,1,1,0
+1881_Fleuriot-Zenaide_Alberte.book --- madame de valroux,1,1,0
+1881_Fleuriot-Zenaide_Alberte.book --- madeleine,1,1,0
+1881_Martignat-Mlle-de_Ginette.book --- ginette,1,1,1
+1881_Martignat-Mlle-de_Ginette.book --- aurore,1,1,1
+1881_Martignat-Mlle-de_Ginette.book --- sir leslie,1,0,0
+1881_Martignat-Mlle-de_Ginette.book --- geneviève,1,1,1
+1881_Martignat-Mlle-de_Ginette.book --- miss barbara,1,1,0
+1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien..book --- florentin,0,0,0
+1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien..book --- loïs,0,1,1
+1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien..book --- mon ami florentin,0,0,5
+1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien..book --- lucien,0,1,1
+1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien..book --- monsieur pélerin,0,0,0
+1881_Laurie-Andre_Memoires-d-un-collegien.book --- besnard,0,0,1
+1881_Laurie-Andre_Memoires-d-un-collegien.book --- baudouin,0,0,1
+1881_Laurie-Andre_Memoires-d-un-collegien.book --- m. pellerin,0,0,0
+1881_Laurie-Andre_Memoires-d-un-collegien.book --- baudouin et moi,0,0,5
+1881_Laurie-Andre_Memoires-d-un-collegien.book --- perroche,0,0,1
+1881_Stolz-Madame-de_Les-deux-reines.book --- paule,1,1,1
+1881_Stolz-Madame-de_Les-deux-reines.book --- m. lemaire,1,1,0
+1881_Stolz-Madame-de_Les-deux-reines.book --- olga,1,1,1
+1881_Stolz-Madame-de_Les-deux-reines.book --- mme alban,1,1,0
+1881_Stolz-Madame-de_Les-deux-reines.book --- léonce,1,1,0
+1882_Fleuriot-Zenaide_Bouche-en-coeur.book --- simonne,1,1,1
+1882_Fleuriot-Zenaide_Bouche-en-coeur.book --- pierre,1,0,0
+1882_Fleuriot-Zenaide_Bouche-en-coeur.book --- hélène,1,1,1
+1882_Fleuriot-Zenaide_Bouche-en-coeur.book --- bouche-en-cœur,1,1,3
+1882_Fleuriot-Zenaide_Bouche-en-coeur.book --- inès,1,1,1
+1882_Gouraud-Julie_Chez-grand-mere.book --- françoise,1,1,1
+1882_Gouraud-Julie_Chez-grand-mere.book --- mme decosne,1,1,0
+1882_Gouraud-Julie_Chez-grand-mere.book --- grand'mère,1,1,0
+1882_Gouraud-Julie_Chez-grand-mere.book --- louise,1,1,1
+1882_Gouraud-Julie_Chez-grand-mere.book --- vincent et pierre,1,0,5
+1883_Halt-Marie-Robert_Histoire-d-un-petit-homme.book --- étienne,1,0,1
+1883_Halt-Marie-Robert_Histoire-d-un-petit-homme.book --- m. duclair,1,0,0
+1883_Halt-Marie-Robert_Histoire-d-un-petit-homme.book --- thérèse,1,1,1
+1883_Halt-Marie-Robert_Histoire-d-un-petit-homme.book --- cabarratte,1,0,0
+1883_Halt-Marie-Robert_Histoire-d-un-petit-homme.book --- florence,1,1,1
+1884_Gouraud-Julie_Le-Vieux-chateau.book --- mme duquesne,1,1,0
+1884_Gouraud-Julie_Le-Vieux-chateau.book --- paul,1,0,1
+1884_Gouraud-Julie_Le-Vieux-chateau.book --- m. duquesne,1,1,0
+1884_Gouraud-Julie_Le-Vieux-chateau.book --- marthe,1,1,1
+1884_Gouraud-Julie_Le-Vieux-chateau.book --- germaine,1,1,1
+1884_Laurie-Andre_L-Heritier-de-Robinson.book --- m. gloaguen,0,0,0
+1884_Laurie-Andre_L-Heritier-de-Robinson.book --- chandos,0,1,1
+1884_Laurie-Andre_L-Heritier-de-Robinson.book --- robinson,0,0,0
+1884_Laurie-Andre_L-Heritier-de-Robinson.book --- to - ho,1,1,0
+1884_Laurie-Andre_L-Heritier-de-Robinson.book --- paul - louis,0,0,0
+1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien.book --- jean,0,1,1
+1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien.book --- sir william,0,0,0
+1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien.book --- le petit parisien,0,1,1
+1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien.book --- méloir,0,1,1
+1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien.book --- jacob risler,0,0,0
+1885_Bazin-Rene_Ma-tante-Giron.book --- jacques,0,0,0
+1885_Bazin-Rene_Ma-tante-Giron.book --- marthe,0,1,0
+1885_Bazin-Rene_Ma-tante-Giron.book --- le baron jacques,0,1,5
+1885_Bazin-Rene_Ma-tante-Giron.book --- annette,0,1,0
+1885_Bazin-Rene_Ma-tante-Giron.book --- sosthène,0,0,0
+1885_Malot-Hector_Romain-Kalbris.book --- romain,0,0,1
+1885_Malot-Hector_Romain-Kalbris.book --- diélette,0,1,1
+1885_Malot-Hector_Romain-Kalbris.book --- m. de bihorel,0,1,0
+1885_Malot-Hector_Romain-Kalbris.book --- lapolade,0,1,0
+1885_Malot-Hector_Romain-Kalbris.book --- samedi,0,0,0
+1886_Lemonnier-Camille_Les-joujoux-parlants.book --- m. chat,1,1,2
+1886_Lemonnier-Camille_Les-joujoux-parlants.book --- mme chat,1,1,2
+1886_Lemonnier-Camille_Les-joujoux-parlants.book --- m. et mme chat,1,0,5
+1886_Lemonnier-Camille_Les-joujoux-parlants.book --- midja,1,1,1
+1886_Lemonnier-Camille_Les-joujoux-parlants.book --- char5,,1,5
+1886_Sand-George_Les-ailes-de-courage.book --- clopinet,1,1,1
+1886_Sand-George_Les-ailes-de-courage.book --- tire-à-gauche,1,1,0
+1886_Sand-George_Les-ailes-de-courage.book --- laquille,1,0,0
+1886_Sand-George_Les-ailes-de-courage.book --- le père doucy,1,0,0
+1886_Sand-George_Les-ailes-de-courage.book --- la mère doucette,1,1,0
+1887_Malot-Hector_Sans-famille.book --- rémi,0,0,1
+1887_Malot-Hector_Sans-famille.book --- vitalis,0,0,0
+1887_Malot-Hector_Sans-famille.book --- mattia,0,0,1
+1887_Malot-Hector_Sans-famille.book --- riccardo,0,0,1
+1887_Malot-Hector_Sans-famille.book --- garofoli,0,0,0
+1887_Soboleska-Mme_Les-Jeunes-filles-de-Quinnebasset.book --- émilie,1,1,1
+1887_Soboleska-Mme_Les-Jeunes-filles-de-Quinnebasset.book --- charles,1,0,0
+1887_Soboleska-Mme_Les-Jeunes-filles-de-Quinnebasset.book --- xéna,1,1,1
+1887_Soboleska-Mme_Les-Jeunes-filles-de-Quinnebasset.book --- mme howe,1,1,0
+1887_Soboleska-Mme_Les-Jeunes-filles-de-Quinnebasset.book --- madame fagg,1,1,0
+1888_Gouraud-Julie_Quand-je-serai-grande.book --- laure,1,1,1
+1888_Gouraud-Julie_Quand-je-serai-grande.book --- mme thiébaut,1,1,0
+1888_Gouraud-Julie_Quand-je-serai-grande.book --- cécile,1,1,1
+1888_Gouraud-Julie_Quand-je-serai-grande.book --- annette,1,1,1
+1888_Gouraud-Julie_Quand-je-serai-grande.book --- rose,1,1,1
+1888_Blandy-Stella_L-Oncle-Philibert.book --- vittorio,1,1,1
+1888_Blandy-Stella_L-Oncle-Philibert.book --- paul,1,1,1
+1888_Blandy-Stella_L-Oncle-Philibert.book --- claude chardet,1,1,0
+1888_Blandy-Stella_L-Oncle-Philibert.book --- alice,1,1,1
+1888_Blandy-Stella_L-Oncle-Philibert.book --- pétrus,1,0,1
+1888_Stolz-Madame-de_Violence-et-bonte.book --- robert,1,0,1
+1888_Stolz-Madame-de_Violence-et-bonte.book --- mme d' embrun,1,1,0
+1888_Stolz-Madame-de_Violence-et-bonte.book --- corentine,1,1,0
+1888_Stolz-Madame-de_Violence-et-bonte.book --- mlle trépiez,1,1,0
+1888_Stolz-Madame-de_Violence-et-bonte.book --- le colonel d' evian,1,0,0
+1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure.book --- reine,1,1,1
+1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure.book --- m. de conprat,1,0,0
+1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure.book --- françois i er,1,1,5
+1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure.book --- blanche,1,1,1
+1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure.book --- m. de pavol,1,0,0
+1889_Dombre-Roger_Folla.book --- folla,1,1,1
+1889_Dombre-Roger_Folla.book --- mme milane,1,1,0
+1889_Dombre-Roger_Folla.book --- juliette,1,1,1
+1889_Dombre-Roger_Folla.book --- gervaise,1,1,0
+1889_Dombre-Roger_Folla.book --- follette,1,1,1
+1890_Dombre-Roger_Une-pupille-genante.book --- gilberte,1,1,1
+1890_Dombre-Roger_Une-pupille-genante.book --- simiès,1,0,0
+1890_Dombre-Roger_Une-pupille-genante.book --- albéric,1,1,1
+1890_Dombre-Roger_Une-pupille-genante.book --- mlle mauduit,1,1,1
+1890_Dombre-Roger_Une-pupille-genante.book --- mme daltier,1,1,0
+1890_Dombre-Roger_La-Nounou.book --- la moucheronne,1,1,1
+1890_Dombre-Roger_La-Nounou.book --- favier,1,0,0
+1890_Dombre-Roger_La-Nounou.book --- manon,1,1,0
+1890_Dombre-Roger_La-Nounou.book --- nounou,1,1,2
+1890_Dombre-Roger_La-Nounou.book --- marie,1,1,1
+1890_Pitray-Olga-de-Segur_Voyages-abracadabrants-du-gros-Phileas.book --- philéas,1,1,0
+1890_Pitray-Olga-de-Segur_Voyages-abracadabrants-du-gros-Phileas.book --- saindoux,1,0,0
+1890_Pitray-Olga-de-Segur_Voyages-abracadabrants-du-gros-Phileas.book --- sagababa,1,0,1
+1890_Pitray-Olga-de-Segur_Voyages-abracadabrants-du-gros-Phileas.book --- polyphème,1,0,0
+1890_Pitray-Olga-de-Segur_Voyages-abracadabrants-du-gros-Phileas.book --- m. de marsy,1,0,0
+1890_Hameau-Louise_Mademoiselle-Pourquoi.book --- alice,1,1,1
+1890_Hameau-Louise_Mademoiselle-Pourquoi.book --- mme monval,1,1,0
+1890_Hameau-Louise_Mademoiselle-Pourquoi.book --- maria,1,1,1
+1890_Hameau-Louise_Mademoiselle-Pourquoi.book --- georgette,1,1,1
+1890_Hameau-Louise_Mademoiselle-Pourquoi.book --- maurice,1,1,1
+1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres.book --- mme derville,1,1,0
+1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres.book --- marie,1,1,1
+1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres.book --- grand'mère,1,1,0
+1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres.book --- céleste,1,1,1
+1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres.book --- m. brémont,1,1,0
+1891_Pitray-Olga-de-Segur_L-Usine-et-le-chateau.book --- gildas,1,0,1
+1891_Pitray-Olga-de-Segur_L-Usine-et-le-chateau.book --- noëlie,1,1,1
+1891_Pitray-Olga-de-Segur_L-Usine-et-le-chateau.book --- m. nivier,1,1,0
+1891_Pitray-Olga-de-Segur_L-Usine-et-le-chateau.book --- m. de brandas,1,0,0
+1891_Pitray-Olga-de-Segur_L-Usine-et-le-chateau.book --- odet,1,1,1
+1892_Stolz-Madame-de_La-famille-Coquelicot.book --- m. ildefonse,1,0,0
+1892_Stolz-Madame-de_La-famille-Coquelicot.book --- fernand,1,0,1
+1892_Stolz-Madame-de_La-famille-Coquelicot.book --- m. corbin,1,0,0
+1892_Stolz-Madame-de_La-famille-Coquelicot.book --- m. coquelicot,1,0,0
+1892_Stolz-Madame-de_La-famille-Coquelicot.book --- marie-thérèse,1,1,1
+1892_Colomb-Josephine_Les-Conquetes-d-Hermine.book --- hermine,1,1,1
+1892_Colomb-Josephine_Les-Conquetes-d-Hermine.book --- le capitaine baudoin,1,0,0
+1892_Colomb-Josephine_Les-Conquetes-d-Hermine.book --- didier,1,0,1
+1892_Colomb-Josephine_Les-Conquetes-d-Hermine.book --- m. girague,1,0,0
+1892_Colomb-Josephine_Les-Conquetes-d-Hermine.book --- mme girague,1,1,0
+1893_Malot-Hector_En-Famille.book --- perrine,0,1,1
+1893_Malot-Hector_En-Famille.book --- m. vulfran,0,0,0
+1893_Malot-Hector_En-Famille.book --- rosalie,0,1,1
+1893_Malot-Hector_En-Famille.book --- aurélie,0,1,1
+1893_Malot-Hector_En-Famille.book --- talouel,0,1,0
+1893_Marie-Delorme_Les-Filles-du-clown.book --- rita,1,1,1
+1893_Marie-Delorme_Les-Filles-du-clown.book --- karl,1,1,0
+1893_Marie-Delorme_Les-Filles-du-clown.book --- riccio,1,0,1
+1893_Marie-Delorme_Les-Filles-du-clown.book --- dorothée,1,1,1
+1893_Marie-Delorme_Les-Filles-du-clown.book --- rita et dorothée,1,1,5
+1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee.book --- satin - bleu,1,1,3
+1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee.book --- jacques,1,0,1
+1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee.book --- éva,1,1,1
+1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee.book --- coquette,1,1,1
+1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee.book --- kitty,1,1,0
+1894_Gautier-Judith_Memoires-d-un-Elephant-blanc.book --- iravata,1,0,2
+1894_Gautier-Judith_Memoires-d-un-Elephant-blanc.book --- parvati,1,1,1
+1894_Gautier-Judith_Memoires-d-un-Elephant-blanc.book --- alemguir,1,0,0
+1894_Gautier-Judith_Memoires-d-un-Elephant-blanc.book --- m. oldham,1,1,0
+1894_Gautier-Judith_Memoires-d-un-Elephant-blanc.book --- monsieur éléphant,1,0,2
+1895_Mael-Pierre_Les-Derniers-Hommes-rouges.book --- wagha - na,0,0,0
+1895_Mael-Pierre_Les-Derniers-Hommes-rouges.book --- madeleine,0,1,1
+1895_Mael-Pierre_Les-Derniers-Hommes-rouges.book --- léopold,0,0,0
+1895_Mael-Pierre_Les-Derniers-Hommes-rouges.book --- georges,0,0,0
+1895_Mael-Pierre_Les-Derniers-Hommes-rouges.book --- pitch et schulmann,0,0,5
+1896_Gyp_Bijou.book --- bijou,1,1,1
+1896_Gyp_Bijou.book --- paul,1,1,1
+1896_Gyp_Bijou.book --- m. de rueille,1,0,0
+1896_Gyp_Bijou.book --- jean,1,0,1
+1896_Gyp_Bijou.book --- m. de clagny,1,0,0
+1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant.book --- siribeddi,1,0,2
+1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant.book --- mme mahala,1,1,0
+1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant.book --- la tribu des longues - queues,1,1,5
+1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant.book --- jack,1,0,2
+1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant.book --- miss ellen,1,1,1
+1897_Gerald-Montmeril_Chryseis-au-desert.book --- chryséis,1,1,1
+1897_Gerald-Montmeril_Chryseis-au-desert.book --- le colonel verduron,1,0,0
+1897_Gerald-Montmeril_Chryseis-au-desert.book --- aouka,1,1,1
+1897_Gerald-Montmeril_Chryseis-au-desert.book --- catherine,1,1,1
+1897_Gerald-Montmeril_Chryseis-au-desert.book --- merced,1,1,1
+1897_Mael-Pierre_Au-pays-du-mystere.book --- michel et sonia,0,0,5
+1897_Mael-Pierre_Au-pays-du-mystere.book --- michel,0,0,1
+1897_Mael-Pierre_Au-pays-du-mystere.book --- tibboo,0,0,0
+1897_Mael-Pierre_Au-pays-du-mystere.book --- euzen,0,0,0
+1897_Mael-Pierre_Au-pays-du-mystere.book --- miles turner,0,0,0
+1897_Margueritte-Victor_Poum_(aventures-d-un-petit-garçon).book --- poum,0,1,1
+1897_Margueritte-Victor_Poum_(aventures-d-un-petit-garçon).book --- pauline,0,1,0
+1897_Margueritte-Victor_Poum_(aventures-d-un-petit-garçon).book --- stép,0,0,1
+1897_Margueritte-Victor_Poum_(aventures-d-un-petit-garçon).book --- grand-père vernobre,0,0,0
+1897_Margueritte-Victor_Poum_(aventures-d-un-petit-garçon).book --- bertha,0,1,0
+1899_Colomb-Josephine_Chloris-et-Jeanneton.book --- jeannette,1,1,0
+1899_Colomb-Josephine_Chloris-et-Jeanneton.book --- jean,1,1,0
+1899_Colomb-Josephine_Chloris-et-Jeanneton.book --- pierre gouarhé,1,0,0
+1899_Colomb-Josephine_Chloris-et-Jeanneton.book --- adélaïde,1,1,1
+1899_Colomb-Josephine_Chloris-et-Jeanneton.book --- jeanneton,1,1,1
+1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte.book --- charlotte,1,1,1
+1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte.book --- friederich,1,1,1
+1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte.book --- mme poise,1,1,0
+1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte.book --- la cousine hilda,1,1,1
+1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte.book --- sœur joséfa,1,1,0
+1901_Mael-Pierre_Un-mousse-de-Surcouf.book --- will,0,0,1
+1901_Mael-Pierre_Un-mousse-de-Surcouf.book --- clavaillan,0,1,0
+1901_Mael-Pierre_Un-mousse-de-Surcouf.book --- surcouf,0,0,0
+1901_Mael-Pierre_Un-mousse-de-Surcouf.book --- guillaume,0,1,1
+1901_Mael-Pierre_Un-mousse-de-Surcouf.book --- anne,0,1,1
+1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique.book --- rose,1,1,1
+1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique.book --- alice,1,1,1
+1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique.book --- les petits conyngham,1,0,5
+1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique.book --- mlle rose,1,1,1
+1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique.book --- constance,1,1,1
+1902_Laurie-Andre_Memoires-d-un-collegien-russe.book --- dmitri,0,1,0
+1902_Laurie-Andre_Memoires-d-un-collegien-russe.book --- térentieff,0,0,0
+1902_Laurie-Andre_Memoires-d-un-collegien-russe.book --- sacha,0,1,1
+1902_Laurie-Andre_Memoires-d-un-collegien-russe.book --- porphyre,0,0,1
+1902_Laurie-Andre_Memoires-d-un-collegien-russe.book --- crac,0,0,2
+1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg.book --- henriette,1,1,1
+1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg.book --- mme fernel,1,1,0
+1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg.book --- frédy,1,1,1
+1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg.book --- andré,1,0,1
+1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg.book --- mme laplume,1,1,0
+1905_Toulet-Paul-Jean_Mon-amie-Nane.book --- nane,0,1,0
+1905_Toulet-Paul-Jean_Mon-amie-Nane.book --- m. le marigo,0,0,0
+1905_Toulet-Paul-Jean_Mon-amie-Nane.book --- jacques,0,0,0
+1905_Toulet-Paul-Jean_Mon-amie-Nane.book --- primavérile de ver,0,0,1
+1905_Toulet-Paul-Jean_Mon-amie-Nane.book --- dieudonné,0,0,0
+1906_Morin-Louis_Grand-mere-avait-des-defauts-.book --- palmyre,0,1,1
+1906_Morin-Louis_Grand-mere-avait-des-defauts-.book --- trotty,0,0,1
+1906_Morin-Louis_Grand-mere-avait-des-defauts-.book --- georgette,0,1,1
+1906_Morin-Louis_Grand-mere-avait-des-defauts-.book --- du vieux marquis de saint-père,0,0,0
+1906_Morin-Louis_Grand-mere-avait-des-defauts-.book --- mme de vertune,0,1,0
+1907_Mael-Pierre_Le-Forban-noir.book --- pablo,0,1,1
+1907_Mael-Pierre_Le-Forban-noir.book --- mme hénault,0,1,0
+1907_Mael-Pierre_Le-Forban-noir.book --- ervoan,0,1,0
+1907_Mael-Pierre_Le-Forban-noir.book --- alain,0,1,0
+1907_Mael-Pierre_Le-Forban-noir.book --- gonzalo,0,1,0
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane.book --- réviliod,0,0,0
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane.book --- la tour - miranne,0,1,0
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane.book --- martin landoux,0,0,0
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane.book --- le petit biscuitier,0,1,1
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane.book --- robert,0,1,0
+1910_Cim-Albert_Le-petit-Leveille.book --- césaire,0,0,1
+1910_Cim-Albert_Le-petit-Leveille.book --- m. cambournac,0,0,0
+1910_Cim-Albert_Le-petit-Leveille.book --- mme cambournac,0,1,0
+1910_Cim-Albert_Le-petit-Leveille.book --- l' oncle justin,0,0,0
+1910_Cim-Albert_Le-petit-Leveille.book --- m. justin léveillé,0,0,0
+1911_Marchal-Gustave_Tante-Meteore.book --- m. gavay,0,1,0
+1911_Marchal-Gustave_Tante-Meteore.book --- léon,0,0,1
+1911_Marchal-Gustave_Tante-Meteore.book --- andré,0,0,1
+1911_Marchal-Gustave_Tante-Meteore.book --- mme dulac,0,1,0
+1911_Marchal-Gustave_Tante-Meteore.book --- le docteur loiran,0,0,0
+1925_Robida-Albert_Un-chalet-dans-les-airs.book --- m. cabrol,0,1,0
+1925_Robida-Albert_Un-chalet-dans-les-airs.book --- mélanie,0,1,0
+1925_Robida-Albert_Un-chalet-dans-les-airs.book --- modéran,0,0,1
+1925_Robida-Albert_Un-chalet-dans-les-airs.book --- barlotin,0,0,0
+1925_Robida-Albert_Un-chalet-dans-les-airs.book --- andoche,0,0,1
+1926_Mac-Orlan-Pierre_Les-clients-du-Bon-Chien-Jaune.book --- l' oncle bénic,0,1,0
+1926_Mac-Orlan-Pierre_Les-clients-du-Bon-Chien-Jaune.book --- du hollandais - volant,0,0,4
+1926_Mac-Orlan-Pierre_Les-clients-du-Bon-Chien-Jaune.book --- virmoutiers,0,1,0
+1926_Mac-Orlan-Pierre_Les-clients-du-Bon-Chien-Jaune.book --- mon jeune louis-marie bénic,0,1,1
+1926_Mac-Orlan-Pierre_Les-clients-du-Bon-Chien-Jaune.book --- bénic,0,0,0
+1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete.book --- suzanne,1,1,1
+1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete.book --- nicolas,1,0,1
+1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete.book --- henri,1,0,1
+1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete.book --- m. rouzerolle,1,0,0
+1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete.book --- mariette,1,1,0
+1943_Saint-Exupery-Antoine-de_Le-petit-prince.book --- le petit prince,0,1,1
+1943_Saint-Exupery-Antoine-de_Le-petit-prince.book --- char2,,1,5
+1943_Saint-Exupery-Antoine-de_Le-petit-prince.book --- char3,,0,5
+1943_Saint-Exupery-Antoine-de_Le-petit-prince.book --- char4,,0,5
+1943_Saint-Exupery-Antoine-de_Le-petit-prince.book --- char5,,1,5

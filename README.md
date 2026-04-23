@@ -1,2 +1,6 @@
-# litt_jeunesse
-Folder for my Master Thesis project about rappresentations in children's literature
+# Enfances bourgeoises
+
+### une étude computationnelle sur les représentations des classes sociales et du genre dans la littérature de jeunesse française (1833-1941)
+
+
+
