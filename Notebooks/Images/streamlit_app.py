@@ -77,7 +77,10 @@ def safe_split(value):
 # -----------------------------
 # INIT
 # -----------------------------
-df = load_or_create_csv()
+if "df" not in st.session_state:
+    st.session_state.df = load_or_create_csv()
+
+df = st.session_state.df
 
 if "mode" not in st.session_state:
     st.session_state.mode = "Da annotare"
@@ -104,8 +107,22 @@ if mode != st.session_state.mode:
     st.session_state.mode = mode
     st.session_state.filtered_pos = 0
 
-done_value = True if mode == "Già annotate" else False
-filtered = df[df["done"] == done_value].reset_index()
+all_images = load_images()
+
+if mode == "Da annotare":
+    annotated_images = df[df["done"] == True][["subfolder", "filename"]].drop_duplicates()
+
+    merged = all_images.merge(
+        annotated_images,
+        on=["subfolder", "filename"],
+        how="left",
+        indicator=True
+    )
+
+    filtered = merged[merged["_merge"] == "left_only"].reset_index()
+
+else:
+    filtered = df[df["done"] == True][["subfolder", "filename"]].drop_duplicates().reset_index()
 
 if len(filtered) == 0:
     st.warning("Nessuna immagine in questa modalità")
@@ -116,11 +133,49 @@ st.session_state.filtered_pos = min(
     len(filtered) - 1
 )
 
-current_idx = filtered.loc[st.session_state.filtered_pos, "index"]
+row_filtered = filtered.loc[st.session_state.filtered_pos]
+
+# -----------------------------
+# TROVA RIGA CORRETTA
+# -----------------------------
+annotator = st.session_state.annotator_name.lower()
+
+mask_user = (
+    (df["subfolder"] == row_filtered["subfolder"]) &
+    (df["filename"] == row_filtered["filename"]) &
+    (df["annotator"] == annotator)
+)
+
+if mask_user.any():
+    current_idx = df[mask_user].index[0]
+else:
+    mask_any = (
+        (df["subfolder"] == row_filtered["subfolder"]) &
+        (df["filename"] == row_filtered["filename"])
+    )
+
+    if mask_any.any():
+        current_idx = df[mask_any].index[0]
+    else:
+        new_row = {
+            "subfolder": row_filtered["subfolder"],
+            "filename": row_filtered["filename"],
+            "annotator": "",
+            "characters": "",
+            "scene_setting": "",
+            "faces_position": "",
+            "social_class": "",
+            "toy": "",
+            "emotional_intensity": "",
+            "done": False
+        }
+        df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+        current_idx = df.index[-1]
+
 row = df.loc[current_idx]
 
 # -----------------------------
-# INIT STATE PER IMMAGINE
+# INIT STATE
 # -----------------------------
 def init_state():
     if st.session_state.get("loaded_idx") != current_idx:
@@ -134,12 +189,12 @@ def init_state():
             st.session_state.annotator_name = row["annotator"]
 
         st.session_state.n_chars = max(1, len(chars))
-
         st.session_state.characters = chars if chars else ["Man"]
         st.session_state.faces = faces if faces else ["front"]
         st.session_state.social = social if social else ["Middle Class"]
 
         st.session_state.scene = row["scene_setting"] if row["scene_setting"] else "Indoors"
+
         st.session_state.toys = toys
         st.session_state.n_toys = len(toys)
 
@@ -167,9 +222,6 @@ img_path = os.path.join(DATA_DIR, row["subfolder"], row["filename"])
 image = Image.open(img_path)
 st.image(image, use_container_width=True)
 
-# -----------------------------
-# INFO FILE
-# -----------------------------
 st.markdown(f"**Libro:** {row['subfolder']}  \n**Immagine:** {row['filename']}")
 
 # -----------------------------
@@ -180,14 +232,13 @@ col1, col2, col3 = st.columns([1,2,1])
 with col1:
     if st.button("⬅️ Indietro"):
         st.session_state.filtered_pos = max(0, st.session_state.filtered_pos - 1)
+        st.session_state.loaded_idx = None
         st.rerun()
 
 with col3:
     if st.button("Avanti ➡️"):
-        st.session_state.filtered_pos = min(
-            len(filtered) - 1,
-            st.session_state.filtered_pos + 1
-        )
+        st.session_state.filtered_pos = min(len(filtered)-1, st.session_state.filtered_pos + 1)
+        st.session_state.loaded_idx = None
         st.rerun()
 
 # -----------------------------
@@ -195,73 +246,50 @@ with col3:
 # -----------------------------
 with st.sidebar:
 
-    st.header("Annotazione ")
+    st.header("Annotazione")
 
     st.session_state.annotator_name = st.text_input(
-        "Annotatore (inserisci il tuo primo nome in maiuscolo)",
+        "Annotatore",
         value=st.session_state.annotator_name
     )
 
-    new_n = st.number_input(
-        "Numero di personaggi presenti sulla scena",
-        min_value=1,
-        max_value=10,
-        value=st.session_state.n_chars
-    )
+    new_n = st.number_input("Numero personaggi", 1, 10, value=st.session_state.n_chars)
 
     if new_n != st.session_state.n_chars:
         st.session_state.n_chars = new_n
 
         def resize(lst, default):
-            if len(lst) < new_n:
-                lst += [default] * (new_n - len(lst))
-            else:
-                lst = lst[:new_n]
-            return lst
+            return (lst + [default]*new_n)[:new_n]
 
         st.session_state.characters = resize(st.session_state.characters, "Man")
         st.session_state.faces = resize(st.session_state.faces, "front")
         st.session_state.social = resize(st.session_state.social, "Middle Class")
 
-    st.markdown("### Personaggi")
-    st.markdown("Chi sono i personaggi? Se sono presenti più personaggi dello stesso tipo, inseriscili ogni volta.")
     for i in range(st.session_state.n_chars):
-        st.session_state.characters[i] = st.selectbox(
-            f"Personaggio {i+1}",
-            CHARACTER_OPTIONS,
-            index=CHARACTER_OPTIONS.index(st.session_state.characters[i]),
-            key=f"char_{i}"
-        )
+        st.session_state.characters[i] = st.selectbox(f"Tipo personaggio {i+1}", CHARACTER_OPTIONS, index=CHARACTER_OPTIONS.index(st.session_state.characters[i]), key=f"char_{i}")
+        st.session_state.faces[i] = st.selectbox(f"Posizione volto {i+1}", FACES_OPTIONS, index=FACES_OPTIONS.index(st.session_state.faces[i]), key=f"face_{i}")
+        st.session_state.social[i] = st.selectbox(f"Classe sociale personaggio {i+1}", SOCIAL_OPTIONS, index=SOCIAL_OPTIONS.index(st.session_state.social[i]), key=f"social_{i}")
 
-    st.markdown("### Ambientazione")
-    st.session_state.scene = st.radio(
-        "Dov'è ambientata la scena?",
-        ['Indoors', 'Outdoors', 'Both / Ambiguous'],
-        index=['Indoors','Outdoors','Both / Ambiguous'].index(st.session_state.scene)
-    )
+    # ✅ TOYS RIPRISTINATI
+    st.markdown("### Giocattoli")
+    st.session_state.n_toys = st.number_input("Numero giocattoli", 0, 10, value=st.session_state.n_toys)
 
-    st.markdown("### Volti")
-    st.markdown("In che posizione sono i volti dei personaggi? Inseriscili nello stesso ordine che hai usato per i personaggi.")
-    for i in range(st.session_state.n_chars):
-        st.session_state.faces[i] = st.selectbox(
-            f"Volto {i+1}",
-            FACES_OPTIONS,
-            index=FACES_OPTIONS.index(st.session_state.faces[i]),
-            key=f"face_{i}"
-        )
+    if len(st.session_state.toys) != st.session_state.n_toys:
+        if len(st.session_state.toys) < st.session_state.n_toys:
+            st.session_state.toys += ["doll"] * (st.session_state.n_toys - len(st.session_state.toys))
+        else:
+            st.session_state.toys = st.session_state.toys[:st.session_state.n_toys]
 
-    st.markdown("### Classe sociale")
-    st.markdown("A che classe sociale appartengono? Inseriscile nello stesso ordine che hai usato per i personaggi.")
-    for i in range(st.session_state.n_chars):
-        st.session_state.social[i] = st.selectbox(
-            f"Classe {i+1}",
-            SOCIAL_OPTIONS,
-            index=SOCIAL_OPTIONS.index(st.session_state.social[i]),
-            key=f"social_{i}"
+    for i in range(st.session_state.n_toys):
+        st.session_state.toys[i] = st.selectbox(
+            f"Tipo giocattolo {i+1}",
+            TOY_OPTIONS,
+            index=TOY_OPTIONS.index(st.session_state.toys[i]),
+            key=f"toy_{i}"
         )
 
     st.session_state.emotion = st.slider(
-        "Intensità emotiva della scena: 1 molto calma, 5 molto intensa.",
+        "Intensità emotiva della scena: (1 molto calma, 5 molto intensa)",
         1, 5,
         value=st.session_state.emotion
     )
@@ -273,7 +301,6 @@ with st.sidebar:
         else:
             annotator = st.session_state.annotator_name.lower()
 
-            # 🔥 MULTI-ANNOTATOR LOGIC
             mask = (
                 (df["subfolder"] == row["subfolder"]) &
                 (df["filename"] == row["filename"]) &
@@ -283,31 +310,36 @@ with st.sidebar:
             if mask.any():
                 idx = df[mask].index[0]
             else:
-                new_row = row.copy()
-                new_row["annotator"] = annotator
+                new_row = {
+                    "subfolder": row["subfolder"],
+                    "filename": row["filename"],
+                    "annotator": annotator,
+                    "characters": "",
+                    "scene_setting": "",
+                    "faces_position": "",
+                    "social_class": "",
+                    "toy": "",
+                    "emotional_intensity": "",
+                    "done": False
+                }
                 df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
                 idx = df.index[-1]
 
+            # ✅ SALVATAGGIO CORRETTO
             df.at[idx, "characters"] = ";".join(st.session_state.characters)
             df.at[idx, "scene_setting"] = st.session_state.scene
             df.at[idx, "faces_position"] = ";".join(st.session_state.faces)
             df.at[idx, "social_class"] = ";".join(st.session_state.social)
+            df.at[idx, "toy"] = ";".join(st.session_state.toys)
             df.at[idx, "emotional_intensity"] = st.session_state.emotion
             df.at[idx, "done"] = True
 
             save_csv(df)
+            st.session_state.df = df
 
             st.session_state.annotated_count += 1
-
-            filtered = df[df["done"] == False].reset_index()
-
-            if len(filtered) > 0:
-                st.session_state.filtered_pos = min(
-                    st.session_state.filtered_pos,
-                    len(filtered) - 1
-                )
-            else:
-                st.session_state.filtered_pos = 0
+            st.session_state.filtered_pos += 1
+            st.session_state.loaded_idx = None
 
             st.success("Salvato!")
             st.rerun()
