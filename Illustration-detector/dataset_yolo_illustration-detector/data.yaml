@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/ENC-PSL/Cours_Traitement_Image_Automatique_Option_ENC_2026/Litt-Jeunesse/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: illustration

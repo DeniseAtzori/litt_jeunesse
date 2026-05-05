@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/ENC-PSL/Cours_Traitement_Image_Automatique_Option_ENC_2026/Litt-Jeunesse/yolo_face_pose
+train: images/train
+val: images/train
+
+nc: 1
+names: [face]
+
+kpt_shape: [5, 3]
+flip_idx: [1, 0, 2, 4, 3]
