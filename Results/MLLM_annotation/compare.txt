@@ -1,0 +1,2456 @@
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_88_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Mythical / Imaginary Being
+LLM   : Mythical / Imaginary Being
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile
+LLM   : three_quarter
+
+[✗] FIELD: social_class
+Human : Ambigous
+LLM   : None
+
+[✓] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_41_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Girl
+LLM   : Girl, Girl, Animate Object
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: faces_position
+Human : profile;three_quarter
+LLM   : profile, three_quarter, front
+
+[✗] FIELD: social_class
+Human : Upper Class;Upper Class
+LLM   : Middle Class, Middle Class, None
+
+[✓] FIELD: toy
+Human : doll
+LLM   : doll
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_111_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Animal;Animal
+LLM   : Animal, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : behind;front
+LLM   : three_quarter, three_quarter
+
+[✓] FIELD: social_class
+Human : None;None
+LLM   : None, None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_105_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man;Man;Animal
+LLM   : Man, Man, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter;profile;three_quarter
+LLM   : three_quarter, three_quarter_look_down, three_quarter_look_up
+
+[✗] FIELD: social_class
+Human : Middle Class;Middle Class;None
+LLM   : Upper Class, Middle Class, None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_79_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Animal
+LLM   : Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✓] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_129_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Animal
+LLM   : Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter
+LLM   : three_quarter_look_down
+
+[✓] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_103_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man
+LLM   : Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✓] FIELD: faces_position
+Human : three_quarter
+LLM   : three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class
+LLM   : Upper Class
+
+[✗] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_83_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_141_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Animal
+LLM   : Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✓] FIELD: faces_position
+Human : three_quarter
+LLM   : three_quarter
+
+[✓] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_59_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man
+LLM   : Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✓] FIELD: faces_position
+Human : front;front
+LLM   : front, front
+
+[✗] FIELD: social_class
+Human : Ambigous;Ambigous
+LLM   : None, None
+
+[✓] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_25_img_1.jpg
+================================================================================
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_31_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Woman
+LLM   : Woman, Girl, Girl
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down
+LLM   : three_quarter_look_down, front, front
+
+[✗] FIELD: social_class
+Human : Poor
+LLM   : Poor, Middle Class, Middle Class
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_39_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Mythical / Imaginary Being;Girl
+LLM   : Boy, Mythical / Imaginary Being
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile;profile
+LLM   : profile, three_quarter
+
+[✗] FIELD: social_class
+Human : None;Upper Class
+LLM   : Middle Class, None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_107_img_1.jpg
+================================================================================
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_15_img_1.jpg
+================================================================================
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: toy
+Human : doll;doll
+LLM   : None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_115_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man;Animal;Animal
+LLM   : Man, Animal, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile;three_quarter_look_up;three_quarter_look_down
+LLM   : three_quarter, three_quarter, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class;None;None
+LLM   : None, None, None
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_51_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Mythical / Imaginary Being;Man;Man
+LLM   : Girl, Animal, Man, Animate Object
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: faces_position
+Human : three_quarter;front;front
+LLM   : three_quarter, three_quarter, three_quarter, None
+
+[✗] FIELD: social_class
+Human : None;Middle Class;Middle Class
+LLM   : Upper Class, None, Working Class, None
+
+[✗] FIELD: toy
+Human : doll;doll;doll
+LLM   : doll, puppet, other
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_101_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man;Boy;Boy;Boy;Boy;Boy
+LLM   : Man, Boy, Boy, Boy, Boy, Boy
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile;behind;profile;profile;front;profile
+LLM   : three_quarter_look_down, profile, three_quarter, three_quarter, three_quarter_look_up, three_quarter_look_up
+
+[✓] FIELD: social_class
+Human : Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class
+LLM   : Middle Class, Middle Class, Middle Class, Middle Class, Middle Class, Middle Class
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_143_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Girl;Woman
+LLM   : Woman, Girl
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter;behind
+LLM   : profile, three_quarter
+
+[✗] FIELD: social_class
+Human : Upper Class;Upper Class
+LLM   : Middle Class, Middle Class
+
+[✗] FIELD: toy
+Human : other;doll;rocking horse
+LLM   : doll, toy, other
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_32_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man
+LLM   : Woman, Animate Object, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile
+LLM   : front, three_quarter_look_down, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class
+LLM   : Middle Class, None, None
+
+[✗] FIELD: toy
+Human : other;other;hoop;toy soldier;other;other;toy soldier
+LLM   : toy soldier, other
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_95_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Boy;Man;Woman
+LLM   : Man, Boy, Girl, Woman
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter;three_quarter;profile
+LLM   : three_quarter, profile, profile, profile
+
+[✗] FIELD: social_class
+Human : Poor;Poor;Poor;Poor
+LLM   : Middle Class, Middle Class, Middle Class, Middle Class
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_106_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man
+LLM   : Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✓] FIELD: faces_position
+Human : three_quarter
+LLM   : three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class
+LLM   : Upper Class
+
+[✓] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 1
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_133_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man
+LLM   : Man, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile
+LLM   : profile, profile
+
+[✗] FIELD: social_class
+Human : Middle Class
+LLM   : Middle Class, None
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_63_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Mythical / Imaginary Being
+LLM   : Mythical / Imaginary Being, Animate Object, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter
+LLM   : three_quarter, profile, front
+
+[✗] FIELD: toy
+Human : doll;puppet;rocking horse;toy soldier
+LLM   : doll, toy, puppet, other
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 5
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_19_img_1.jpg
+================================================================================
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: toy
+Human : toy soldier
+LLM   : doll, puppet
+
+[✓] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_77_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man
+LLM   : Man, Man, Woman
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter;profile
+LLM   : profile, three_quarter, three_quarter_look_down
+
+[✗] FIELD: social_class
+Human : Working Class;Working Class
+LLM   : Working Class, Working Class, Working Class
+
+[✓] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_35_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Mythical / Imaginary Being
+LLM   : Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile
+LLM   : three_quarter_look_down
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_14_img_1.jpg
+================================================================================
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: toy
+Human : puppet
+LLM   : doll, toy, other
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_71_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Girl;Girl;Boy;Animal;Man;Girl;Girl;Boy
+LLM   : Boy, Boy, Animal, Man, Girl, Girl
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter;profile;behind;None;three_quarter;profile;behind;three_quarter
+LLM   : None, three_quarter, profile, three_quarter, three_quarter, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class;Middle Class;Middle Class;None;Middle Class;Middle Class;Middle Class;Middle Class
+LLM   : Middle Class, Middle Class, None, Middle Class, Middle Class, Middle Class
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_99_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Woman;Girl;Boy;Boy;Boy;Boy
+LLM   : Man, Boy, Boy, Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter;three_quarter_look_up;three_quarter;three_quarter;three_quarter_look_down
+LLM   : three_quarter, three_quarter, front, three_quarter, three_quarter_look_down
+
+[✗] FIELD: social_class
+Human : Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class
+LLM   : Middle Class, Middle Class, Middle Class, Middle Class, Middle Class
+
+[✓] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_119_img_1.jpg
+================================================================================
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1891_Les_joujoux_parlants / pg_49_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man;Man;Man;Man
+LLM   : Mythical / Imaginary Being, Mythical / Imaginary Being, Mythical / Imaginary Being
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile;profile;three_quarter_look_down;behind;behind
+LLM   : three_quarter, profile, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class;Middle Class;Middle Class;Upper Class;Middle Class
+LLM   : None, None, None
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_74_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_60_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_130_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_306_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_183_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_88_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_41_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_261_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_111_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_58_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_105_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_333_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_55_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_153_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_290_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_259_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_17_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_147_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_85_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_172_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_58_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_321_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_47_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_53_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_273_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_335_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_252_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_228_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Boy;Woman;Boy
+LLM   : Man, Woman, Girl, Other
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✓] FIELD: faces_position
+Human : front;three_quarter;three_quarter_look_down;profile
+LLM   : front, three_quarter_look_down, three_quarter, profile
+
+[✓] FIELD: social_class
+Human : Poor;Poor;Poor;Poor
+LLM   : Poor, Poor, Poor, Poor
+
+[✓] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_185_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_66_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_210_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_97_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_204_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_174_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_319_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_155_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_141_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man;Man
+LLM   : Boy, Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;three_quarter_look_up;three_quarter
+LLM   : three_quarter, three_quarter_look_up, front
+
+[✗] FIELD: social_class
+Human : Poor;Poor;Poor
+LLM   : Working Class, Working Class, Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_231_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_131_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_307_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_152_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_196_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_75_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_255_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_125_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_152_img_3.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_104_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_326_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_110_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_40_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_37_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_285_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_16_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_152_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_78_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_345_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_109_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_59_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_279_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_84_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_167_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_37_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_25_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_28_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_208_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_178_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_46_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_116_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_137_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_159_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_190_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_96_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_31_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_211_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_161_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_82_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_283_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_113_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_219_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_39_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_57_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_256_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_62_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_304_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_238_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_170_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_57_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_198_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_151_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_309_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_235_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_70_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_193_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Woman;Man;Man;Man;Man;Woman
+LLM   : Man, Woman, Man, Man, Man, Woman, Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: faces_position
+Human : three_quarter;three_quarter_look_up;three_quarter;three_quarter_look_up;three_quarter_look_down;three_quarter;three_quarter_look_up
+LLM   : three_quarter, three_quarter_look_up, three_quarter, three_quarter_look_down, profile, three_quarter_look_up, three_quarter_look_down
+
+[✗] FIELD: social_class
+Human : Poor;Poor;Poor;Poor;Poor;Poor;Poor
+LLM   : Working Class, Working Class, Working Class, Working Class, Working Class, Working Class, Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 4
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_64_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_45_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_265_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_98_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_101_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_337_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_249_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_32_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_48_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_81_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_118_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_98_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_95_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_206_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_199_img_3.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_276_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_168_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_133_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_149_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_77_img_1.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Boy;Boy
+LLM   : Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter_look_up
+LLM   : three_quarter_look_down, front
+
+[✗] FIELD: social_class
+Human : Poor;Poor
+LLM   : Working Class, Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_347_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_171_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_92_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_329_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_165_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_215_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_168_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_287_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_144_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_220_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_293_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_135_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_303_img_1.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man;Man
+LLM   : Man, Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Both / Ambiguous
+
+[✗] FIELD: faces_position
+Human : profile;three_quarter_look_down;profile
+LLM   : three_quarter_look_down, profile, three_quarter
+
+[✓] FIELD: social_class
+Human : Poor;Poor;Poor
+LLM   : Poor, Poor, Poor
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_121_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_71_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_100_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_99_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_44_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_264_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_322_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_68_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_248_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_65_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_156_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_94_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_341_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_177_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_33_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_163_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_269_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1865_Les_aventures_de_Jean-Paul_Choppart / pg_80_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_36.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_22.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_8.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_9.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_23.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_37.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_21.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_35.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_34.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_20.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_18.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_24.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_30.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_31.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_25.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_19.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_33.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_27.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_26.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_32.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_41.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_40.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_42.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_43.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_47.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_46.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_44.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_45.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_17.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_0.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_16.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_14.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_28.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_3.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_29.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_15.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_39.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_11.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_7.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_6.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_10.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_38.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_12.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_4.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_5.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1929_Malheurs_de_Sophie / Sophie_13.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_19.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man;Man;Man;Woman;Animal;Man;Man
+LLM   : Man, Woman, Animal, Boy
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : profile;front;three_quarter;profile;profile;three_quarter;front;profile
+LLM   : three_quarter, profile, profile, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class;Middle Class;Middle Class;Poor;Poor;None;Middle Class;Middle Class
+LLM   : Working Class, Working Class, None, Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_18.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_8.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man
+LLM   : Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile
+LLM   : three_quarter
+
+[✓] FIELD: social_class
+Human : Working Class
+LLM   : Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_9.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Woman
+LLM   : Man, Girl, Girl
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter_look_up
+LLM   : three_quarter, three_quarter_look_up, front
+
+[✗] FIELD: social_class
+Human : Poor;Poor
+LLM   : Working Class, Working Class, Working Class
+
+[✗] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_2.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Man;Man;Woman;Man
+LLM   : Man, Woman, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;profile;three_quarter;three_quarter_look_up;three_quarter_look_down
+LLM   : three_quarter, three_quarter, profile
+
+[✗] FIELD: social_class
+Human : Poor;Poor;Poor;Poor;Poor
+LLM   : Poor, Poor, Poor
+
+[✓] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 4
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_3.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Man;Man
+LLM   : Boy, Man
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✓] FIELD: faces_position
+Human : profile;profile
+LLM   : profile, profile
+
+[✓] FIELD: social_class
+Human : Poor;Poor
+LLM   : Poor, Poor
+
+[✗] FIELD: emotional_intensity
+Human : 1.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_0.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Woman;Animal
+LLM   : Woman, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;front
+LLM   : three_quarter, front
+
+[✓] FIELD: social_class
+Human : Working Class;None
+LLM   : Working Class, None
+
+[✗] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_4.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Woman;Man;Woman;Man;Man
+LLM   : Girl, Girl, Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;three_quarter_look_down;profile;three_quarter_look_down;three_quarter_look_down
+LLM   : profile, three_quarter, three_quarter_look_down, three_quarter_look_down
+
+[✗] FIELD: social_class
+Human : Upper Class;Upper Class;Upper Class;Upper Class;Upper Class
+LLM   : Middle Class, Middle Class, Middle Class, Middle Class
+
+[✓] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_5.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_7.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_6.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Woman
+LLM   : Girl, Boy, Boy
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : behind;three_quarter_look_down
+LLM   : three_quarter_look_down, profile, three_quarter_look_down
+
+[✗] FIELD: social_class
+Human : Poor;Poor
+LLM   : Poor, Poor, Poor
+
+[✓] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_10.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_11.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Animal
+LLM   : Woman, Girl, Boy, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down
+LLM   : profile, profile, profile, profile
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 4
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_13.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Woman;Girl;Animal
+LLM   : Woman, Girl, Animal
+
+[✓] FIELD: scene_setting
+Human : Indoors
+LLM   : Indoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter_look_down;three_quarter
+LLM   : three_quarter, profile, profile
+
+[✗] FIELD: social_class
+Human : Poor;Poor;None
+LLM   : Working Class, Working Class, None
+
+[✓] FIELD: emotional_intensity
+Human : 4.0
+LLM   : 4
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_12.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Animal;Animal;Man;Man;Boy;Boy;Man;Woman;Woman;Man
+LLM   : Man, Woman, Girl, Boy, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : three_quarter_look_down;three_quarter_look_down;profile;profile;three_quarter;profile;profile;profile;three_quarter_look_down;behind
+LLM   : profile, profile, three_quarter, three_quarter, profile
+
+[✗] FIELD: social_class
+Human : None;None;Poor;Poor;Poor;Poor;Poor;Poor;Poor;Poor
+LLM   : Poor, Poor, Poor, Poor, None
+
+[✓] FIELD: emotional_intensity
+Human : 2.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_16.jpg
+================================================================================
+
+[✗] FIELD: characters
+Human : Boy;Man;Woman;Man;Man;Woman;Animal
+LLM   : Woman, Man, Boy, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;front;three_quarter;front;profile;profile;profile
+LLM   : three_quarter, three_quarter, three_quarter, profile
+
+[✗] FIELD: social_class
+Human : Poor;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;None
+LLM   : Poor, Working Class, Poor, None
+
+[✓] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 3
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_17.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Woman;Animal
+LLM   : Woman, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;profile
+LLM   : profile, three_quarter_look_down
+
+[✓] FIELD: social_class
+Human : Poor;None
+LLM   : Poor, None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_15.jpg
+================================================================================
+
+[✓] FIELD: characters
+Human : Man;Animal
+LLM   : Man, Animal
+
+[✗] FIELD: scene_setting
+Human : Indoors
+LLM   : Outdoors
+
+[✗] FIELD: faces_position
+Human : profile;profile
+LLM   : three_quarter, three_quarter
+
+[✗] FIELD: social_class
+Human : Middle Class;None
+LLM   : Upper Class, None
+
+[✗] FIELD: emotional_intensity
+Human : 3.0
+LLM   : 2
+
+================================================================================
+IMAGE: 1860_Memoire_d_un_ane / Ane_14.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_79_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_124_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_74_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_60_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_130_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_88_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_41_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_111_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_105_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_55_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_79_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_129_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_60_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_85_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_36_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_22_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_58_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_91_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_108_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_117_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_47_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_83_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_97_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_72_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_122_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_136_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_66_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_30_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_117_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_47_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_83_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_97_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_24_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_72_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_136_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_131_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_61_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_84_img_3.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_128_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_75_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_125_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_54_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_104_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_110_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_89_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_84_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_131_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_61_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_128_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_125_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_23_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_125_img_3.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_109_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_59_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_90_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_89_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_84_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_102_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_52_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_28_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_46_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_116_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_137_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_123_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_73_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_96_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_25_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_31_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_82_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_123_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_87_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_43_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_113_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_39_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_107_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_57_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_126_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_76_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_62_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_132_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_87_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_43_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_34_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_20_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_93_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_132_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_70_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_139_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_134_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_64_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_118_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_115_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_45_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_98_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_51_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_69_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_139_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_134_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_32_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_48_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_81_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_118_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_115_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_95_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_56_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_86_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_112_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_42_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_38_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_133_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_63_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_77_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_127_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_21_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_92_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_86_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_35_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_65_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_135_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_121_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_71_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_100_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_99_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_50_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_44_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_114_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_68_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_65_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_135_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_99_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_27_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_33_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_119_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_49_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_80_img_1.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_44_img_2.jpg
+================================================================================
+
+================================================================================
+IMAGE: 1845_Histoire_d'un_casse-noisette / pg_114_img_2.jpg
+================================================================================

@@ -1,0 +1,101 @@
+subfolder,filename,annotator,characters,scene_setting,faces_position,social_class,toy,emotional_intensity,done
+1891_Les_joujoux_parlants,pg_77_img_1.jpg,denise,Woman;Man;Man,Indoors,three_quarter_look_down;profile;profile,Working Class;Working Class;Working Class,None,4.0,True
+1891_Les_joujoux_parlants,pg_88_img_1.jpg,denise,Mythical / Imaginary Being,Indoors,profile,None,None,2.0,True
+1891_Les_joujoux_parlants,pg_133_img_1.jpg,denise,Man;Animal;Animal;Animal;Animal,Indoors,profile;profile;None;None;None,Middle Class;None;None;None;None,None,1.0,True
+1891_Les_joujoux_parlants,pg_101_img_1.jpg,denise,Man;Boy;Boy;Boy;Boy;Boy,Both / Ambiguous,profile;behind;profile;profile;front;profile,Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1891_Les_joujoux_parlants,pg_79_img_1.jpg,denise,Animal,Outdoors,None,None,None,1.0,True
+1891_Les_joujoux_parlants,pg_41_img_1.jpg,denise,Boy;Girl,Indoors,profile;three_quarter,Upper Class;Upper Class,doll,1.0,True
+1891_Les_joujoux_parlants,pg_71_img_1.jpg,denise,Girl;Girl;Boy;Animal;Man;Girl;Girl;Boy,Indoors,three_quarter;profile;behind;None;three_quarter;profile;behind;three_quarter,Middle Class;Middle Class;Middle Class;None;Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1891_Les_joujoux_parlants,pg_111_img_1.jpg,denise,Animal;Animal,Both / Ambiguous,behind;front,None;None,None,3.0,True
+1891_Les_joujoux_parlants,pg_25_img_1.jpg,denise,None,Outdoors,None,,None,4.0,True
+1891_Les_joujoux_parlants,pg_107_img_1.jpg,denise,Animal,Indoors,None,None,None,4.0,True
+1891_Les_joujoux_parlants,pg_15_img_1.jpg,denise,None,Indoors,None,None,doll;doll,3.0,True
+1891_Les_joujoux_parlants,pg_143_img_1.jpg,denise,Girl;Woman,Indoors,three_quarter;behind,Upper Class;Upper Class,other;doll;rocking horse,3.0,True
+1891_Les_joujoux_parlants,pg_106_img_1.jpg,denise,Man,Both / Ambiguous,three_quarter,Middle Class,None,1.0,True
+1891_Les_joujoux_parlants,pg_119_img_1.jpg,denise,None,Outdoors,None,None,None,1.0,True
+1891_Les_joujoux_parlants,pg_129_img_1.jpg,denise,Animal,Indoors,three_quarter,None,None,1.0,True
+1891_Les_joujoux_parlants,pg_63_img_1.jpg,denise,Mythical / Imaginary Being,Indoors,three_quarter,None,doll;puppet;rocking horse;toy soldier,4.0,True
+1891_Les_joujoux_parlants,pg_51_img_1.jpg,denise,Mythical / Imaginary Being;Man;Man,Indoors,three_quarter;front;front,None;Middle Class;Middle Class,doll;doll;doll,4.0,True
+1891_Les_joujoux_parlants,pg_19_img_1.jpg,denise,None,Indoors,None,None,toy soldier,3.0,True
+1891_Les_joujoux_parlants,pg_39_img_1.jpg,denise,Mythical / Imaginary Being;Girl,Indoors,profile;profile,None;Upper Class,None,3.0,True
+1891_Les_joujoux_parlants,pg_35_img_1.jpg,denise,Mythical / Imaginary Being,Outdoors,profile,None,None,3.0,True
+1891_Les_joujoux_parlants,pg_14_img_1.jpg,denise,None,Indoors,None,None,puppet,3.0,True
+1891_Les_joujoux_parlants,pg_31_img_1.jpg,denise,Woman,Outdoors,three_quarter_look_down,Poor,None,4.0,True
+1860_Memoire_d_un_ane,Ane_16.jpg,denise,Boy;Man;Woman;Man;Man;Woman;Animal,Outdoors,profile;front;three_quarter;front;profile;profile;profile,Poor;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;None,None,3.0,True
+1860_Memoire_d_un_ane,Ane_15.jpg,denise,Man;Animal,Outdoors,profile;profile,Middle Class;None,None,3.0,True
+1860_Memoire_d_un_ane,Ane_0.jpg,denise,Woman;Animal,Outdoors,three_quarter_look_down;front,Working Class;None,None,4.0,True
+1891_Les_joujoux_parlants,pg_103_img_1.jpg,gigi,Man,Both / Ambiguous,three_quarter_look_down,Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_49_img_1.jpg,gigi,Mythical / Imaginary Being;Mythical / Imaginary Being;Mythical / Imaginary Being,Indoors,profile;profile;front,Working Class;Working Class;Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_115_img_1.jpg,gigi,Man;Animal;Animal,Indoors,profile;profile;profile,Working Class;None;None,None,2.0,True
+1891_Les_joujoux_parlants,pg_105_img_1.jpg,gigi,Man;Animal;Man,Outdoors,profile;profile;behind,Upper Class;None;Middle Class,None,2.0,True
+1860_Memoire_d_un_ane,Ane_17.jpg,gigi,Animal;Woman,Outdoors,profile;profile,None;Poor,None,3.0,True
+1860_Memoire_d_un_ane,Ane_2.jpg,gigi,Boy;Man;Man;Woman;Man,Outdoors,profile;profile;three_quarter_look_down;three_quarter_look_up;three_quarter_look_down,Poor;Poor;Poor;Poor;Poor,None,4.0,True
+1860_Memoire_d_un_ane,Ane_13.jpg,gigi,Woman;Animal;Girl,Indoors,three_quarter_look_down;three_quarter_look_down;three_quarter_look_down,Middle Class;None;Middle Class,None,4.0,True
+1860_Memoire_d_un_ane,Ane_8.jpg,gigi,Man,Outdoors,three_quarter,Working Class,None,1.0,True
+1860_Memoire_d_un_ane,Ane_19.jpg,gigi,Man;Man;Man;Man;Man;Woman;Animal;Man,Indoors,three_quarter_look_down;front;front;profile;profile;profile;three_quarter_look_down;profile,Middle Class;Middle Class;Middle Class;Poor;Poor;Poor;None;Poor,None,2.0,True
+1891_Les_joujoux_parlants,pg_32_img_1.jpg,gigi,None,Indoors,None,None,other;other;hoop;puppet;other;puppet;toy soldier,2.0,True
+1891_Les_joujoux_parlants,pg_59_img_1.jpg,gigi,Mythical / Imaginary Being;Mythical / Imaginary Being,Indoors,front;front,Ambigous;Ambigous,None,1.0,True
+1860_Memoire_d_un_ane,Ane_9.jpg,gigi,Man;Woman,Indoors,three_quarter_look_down;three_quarter_look_up,Working Class;Poor,None,3.0,True
+1860_Memoire_d_un_ane,Ane_6.jpg,gigi,Boy;Woman,Outdoors,behind;three_quarter_look_up,Poor;Poor,None,4.0,True
+1860_Memoire_d_un_ane,Ane_4.jpg,gigi,Woman;Man;Woman;Man;Man,Outdoors,profile;three_quarter_look_up;profile;three_quarter_look_down;three_quarter_look_down,Poor;Poor;Poor;Poor;Poor,None,4.0,True
+1860_Memoire_d_un_ane,Ane_3.jpg,gigi,Man;Man,Outdoors,profile;profile,Poor;Poor,None,2.0,True
+1860_Memoire_d_un_ane,Ane_12.jpg,gigi,Animal;Animal;Man;Man;Boy;Boy;Man;Woman;Woman;Man,Outdoors,three_quarter_look_down;three_quarter_look_down;profile;profile;three_quarter;profile;profile;profile;three_quarter_look_down;behind,None;None;Poor;Poor;Poor;Poor;Poor;Poor;Poor;Poor,None,3.0,True
+1860_Memoire_d_un_ane,Ane_11.jpg,gigi,Man;Animal;Man;Animal;Woman;Man;Man;Woman;Boy;Boy,Indoors,behind;behind;behind;profile;profile;profile;profile;profile;three_quarter_look_up;three_quarter_look_down,Poor;None;Poor;None;Poor;Poor;Poor;Poor;Poor;Poor,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_303_img_1.jpg,gigi,Man;Man;Man,Both / Ambiguous,profile;three_quarter_look_down;profile,Working Class;Working Class;Working Class,None,2.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_141_img_1.jpg,gigi,Man;Man;Man,Both / Ambiguous,profile;three_quarter_look_up;three_quarter_look_up,Poor;Poor;Poor,None,2.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_228_img_1.jpg,gigi,Man;Boy;Woman;Boy,Both / Ambiguous,front;three_quarter_look_up;three_quarter_look_up;profile,Poor;Poor;Poor;Poor,None,2.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_77_img_1.jpg,gigi,Boy;Boy,Both / Ambiguous,three_quarter_look_down;three_quarter_look_up,Poor;Poor,None,4.0,True
+1891_Les_joujoux_parlants,pg_83_img_1.jpg,denise,Girl;Man,Outdoors,three_quarter_look_down;profile,None;Ambigous,None,4.0,True
+1860_Memoire_d_un_ane,Ane_7.jpg,denise,Girl;Girl;Animal;Boy;Boy;Boy;Boy,Outdoors,profile;front;profile;three_quarter;profile;profile;profile,Middle Class;Middle Class;None;Middle Class;Middle Class;Middle Class;Middle Class,None,2.0,True
+1860_Memoire_d_un_ane,Ane_18.jpg,denise,None,Outdoors,None,None,None,4.0,True
+1860_Memoire_d_un_ane,Ane_14.jpg,denise,Man;Man;Woman,Indoors,three_quarter_look_down;profile;three_quarter,Middle Class;Middle Class;Middle Class,None,4.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_153_img_1.jpg,denise,Man,Outdoors,profile,Upper Class,None,5.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_276_img_1.jpg,denise,Man;Man;Woman,Indoors,front;profile;profile,Middle Class;Upper Class;Middle Class,None,4.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_193_img_1.jpg,denise,Man;Woman;Man;Man;Man;Man;Man,Outdoors,front;three_quarter_look_up;front;three_quarter_look_up;three_quarter_look_down;front;three_quarter_look_up,Working Class;Working Class;Working Class;Working Class;Middle Class;Middle Class;Working Class,None,4.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_235_img_1.jpg,denise,Boy;Boy,Outdoors,profile;three_quarter_look_down,Middle Class;Working Class,None,2.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_168_img_2.jpg,denise,None,Indoors,None,None,None,1.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_210_img_1.jpg,denise,Man;Man,Both / Ambiguous,behind;three_quarter_look_down,Middle Class;Upper Class,None,3.0,True
+1860_Memoire_d_un_ane,Ane_10.jpg,denise,Man;Animal;Animal;Man;Animal;Man;Man,Indoors,profile;profile;behind;profile;None;None;three_quarter,Middle Class;None;None;Middle Class;None;Middle Class;Middle Class,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_279_img_1.jpg,denise,Man,Both / Ambiguous,front,Ambigous,None,2.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_248_img_1.jpg,gigi,Woman;Woman;Woman;Woman;Woman;Woman;Woman;Woman;Woman,Both / Ambiguous,three_quarter_look_down;three_quarter;profile;three_quarter_look_up;front;front;front;front;three_quarter_look_up,Poor;Poor;Poor;Poor;Poor;Poor;Poor;Poor;Poor,None,2.0,True
+1891_Les_joujoux_parlants,pg_141_img_1.jpg,gigi,Animal,Indoors,three_quarter_look_down,None,None,2.0,True
+1891_Les_joujoux_parlants,pg_95_img_1.jpg,gigi,Boy;Girl;Mythical / Imaginary Being;Woman,Outdoors,three_quarter;three_quarter;three_quarter_look_up;profile,Poor;Poor;Poor;Poor,doll;puppet;other,2.0,True
+1891_Les_joujoux_parlants,pg_99_img_1.jpg,gigi,Woman;Girl;Boy;Boy;Boy;Boy,Indoors,three_quarter_look_down;three_quarter;three_quarter;three_quarter;three_quarter;three_quarter_look_down,Working Class;Upper Class;Upper Class;Upper Class;Upper Class;Upper Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_77_img_1.jpg,gigi,Man;Man,Indoors,profile;three_quarter_look_up,Working Class;Working Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_88_img_1.jpg,gigi,Mythical / Imaginary Being,Indoors,profile,Ambigous,None,3.0,True
+1891_Les_joujoux_parlants,pg_133_img_1.jpg,gigi,Animal;Animal;Animal;Animal;Man;Animal,Indoors,three_quarter_look_down;three_quarter;three_quarter_look_down;three_quarter;profile;behind,None;None;None;None;Middle Class;None,None,2.0,True
+1891_Les_joujoux_parlants,pg_101_img_1.jpg,gigi,Man;Boy;Boy;Boy;Boy;Boy,Indoors,three_quarter_look_down;profile;profile;profile;three_quarter_look_down;profile,Working Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_79_img_1.jpg,gigi,Animal,Indoors,profile,None,None,2.0,True
+1891_Les_joujoux_parlants,pg_41_img_1.jpg,gigi,Girl;Woman,Indoors,profile;three_quarter,Upper Class;Upper Class,doll,2.0,True
+1891_Les_joujoux_parlants,pg_71_img_1.jpg,gigi,Girl;Girl;Girl;Animal;Man;Girl;Woman;Girl,Indoors,three_quarter_look_down;profile;behind;behind;three_quarter;profile;three_quarter;behind,Middle Class;Middle Class;Middle Class;None;Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1891_Les_joujoux_parlants,pg_111_img_1.jpg,gigi,Animal;Animal,Indoors,behind;front,None;None,None,2.0,True
+1891_Les_joujoux_parlants,pg_25_img_1.jpg,gigi,Man;Girl;Woman;Boy;Man;Man;Woman;Man;Man;Man,Indoors,profile;three_quarter_look_up;three_quarter_look_down;front;three_quarter;three_quarter;three_quarter_look_down;profile;front;three_quarter_look_down,Working Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_107_img_1.jpg,gigi,Animal;Animal;Animal;Animal;Animal;Animal,Indoors,three_quarter_look_down;front;three_quarter_look_up;three_quarter_look_up;behind;three_quarter_look_up,None;None;None;None;None;None,None,2.0,True
+1891_Les_joujoux_parlants,pg_15_img_1.jpg,gigi,Mythical / Imaginary Being;Mythical / Imaginary Being,Indoors,front;front,Ambigous;Ambigous,None,2.0,True
+1891_Les_joujoux_parlants,pg_143_img_1.jpg,gigi,Woman;Girl,Indoors,behind;three_quarter_look_down,Upper Class;Upper Class,other;doll;toy soldier;puppet;toy soldier;other;puppet;puppet,2.0,True
+1891_Les_joujoux_parlants,pg_106_img_1.jpg,gigi,Man,Indoors,three_quarter,Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_119_img_1.jpg,gigi,Man;Animal;Man;Man,Indoors,profile;behind;three_quarter;profile,Middle Class;None;Middle Class;Middle Class,None,2.0,True
+1891_Les_joujoux_parlants,pg_129_img_1.jpg,gigi,Animal,Indoors,three_quarter,None,None,2.0,True
+1891_Les_joujoux_parlants,pg_63_img_1.jpg,gigi,None,Indoors,None,None,puppet;puppet;puppet;puppet;puppet;doll;doll;puppet;puppet;puppet,1.0,True
+1891_Les_joujoux_parlants,pg_51_img_1.jpg,gigi,Man;Animal;Man,Indoors,front;three_quarter;three_quarter_look_up,Ambigous;None;Working Class,hoop;toy soldier;toy soldier;toy soldier,2.0,True
+1891_Les_joujoux_parlants,pg_19_img_1.jpg,gigi,Man;Woman;Woman;Man;Woman;Woman;Woman;Woman;Woman,Indoors,profile;three_quarter;three_quarter;front;behind;three_quarter;behind;profile;three_quarter,Working Class;Middle Class;Middle Class;Working Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class,puppet,2.0,True
+1891_Les_joujoux_parlants,pg_39_img_1.jpg,gigi,Mythical / Imaginary Being;Boy,Indoors,profile;profile,Ambigous;Upper Class,doll;other;hoop;puppet;other;puppet;other;other;other;doll,2.0,True
+1891_Les_joujoux_parlants,pg_35_img_1.jpg,gigi,Mythical / Imaginary Being,Indoors,profile,Ambigous,None,2.0,True
+1891_Les_joujoux_parlants,pg_14_img_1.jpg,gigi,None,Indoors,None,None,puppet;puppet;puppet;puppet;puppet;other;toy soldier;puppet;puppet;puppet,2.0,True
+1891_Les_joujoux_parlants,pg_31_img_1.jpg,gigi,Woman;Woman;Boy;Woman,Indoors,three_quarter;front;behind;three_quarter_look_down,Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1860_Memoire_d_un_ane,Ane_16.jpg,gigi,Boy;Man;Man;Woman;Man;Man;Animal,Indoors,profile;three_quarter_look_up;three_quarter_look_down;profile;front;three_quarter_look_down;profile,Poor;Poor;Poor;Poor;Poor;Working Class;None,None,3.0,True
+1860_Memoire_d_un_ane,Ane_15.jpg,gigi,Man;Animal,Indoors,profile;profile,Poor;None,None,2.0,True
+1860_Memoire_d_un_ane,Ane_0.jpg,gigi,Woman;Animal,Indoors,three_quarter_look_down;three_quarter_look_down,Poor;None,None,3.0,True
+1891_Les_joujoux_parlants,pg_83_img_1.jpg,gigi,Girl;Mythical / Imaginary Being,Indoors,three_quarter_look_down;profile,Ambigous;Ambigous,None,3.0,True
+1860_Memoire_d_un_ane,Ane_7.jpg,gigi,Girl;Woman;Animal;Boy;Man;Woman;Man;Man,Indoors,profile;three_quarter_look_down;three_quarter_look_up;behind;three_quarter_look_down;profile;three_quarter_look_down;profile,Middle Class;Middle Class;None;Poor;Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1860_Memoire_d_un_ane,Ane_18.jpg,gigi,Man;Man;Man;Boy;Girl;Boy;Boy;Man;Animal;Girl,Indoors,profile;behind;behind;profile;profile;behind;three_quarter_look_up;three_quarter_look_down;profile;profile,Middle Class;Poor;Poor;Poor;Poor;Poor;Poor;Poor;None;Poor,None,3.0,True
+1860_Memoire_d_un_ane,Ane_14.jpg,gigi,Man;Man;Woman,Indoors,three_quarter_look_down;profile;three_quarter_look_up,Upper Class;Upper Class;Upper Class,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_153_img_1.jpg,gigi,Animal;Man,Indoors,profile;three_quarter_look_down,None;Working Class,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_276_img_1.jpg,gigi,Man;Man;Woman,Indoors,three_quarter_look_down;three_quarter_look_down;profile,Poor;Working Class;Poor,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_193_img_1.jpg,gigi,Man;Woman;Man;Man;Man;Man;Woman,Indoors,three_quarter;three_quarter_look_up;three_quarter_look_up;three_quarter_look_up;three_quarter_look_down;three_quarter;three_quarter_look_up,Poor;Poor;Poor;Poor;Poor;Poor;Poor,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_235_img_1.jpg,gigi,Boy;Woman;Man;Man;Man;Man,Indoors,behind;profile;None;three_quarter_look_down;three_quarter_look_down;None,Poor;Poor;Poor;Poor;Poor;Poor,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_168_img_2.jpg,gigi,Man;Man;Man;Man;Man;Man;Man;Man,Indoors,profile;three_quarter_look_up;profile;three_quarter_look_up;behind;behind;behind;profile,Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class;Middle Class,None,3.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_210_img_1.jpg,gigi,Man;Man,Both / Ambiguous,three_quarter_look_down;three_quarter_look_up,Middle Class;Working Class,None,2.0,True
+1860_Memoire_d_un_ane,Ane_5.jpg,gigi,Animal;Man;Animal;Woman;Animal;Man;Woman;Animal;Animal;Woman,Outdoors,three_quarter_look_down;three_quarter_look_down;three_quarter_look_down;three_quarter;three_quarter_look_down;three_quarter_look_down;three_quarter_look_down;profile;three_quarter_look_up;three_quarter_look_up,Middle Class;Middle Class;None;Middle Class;None;Middle Class;Middle Class;None;None;Middle Class,None,4.0,True
+1860_Memoire_d_un_ane,Ane_1.jpg,gigi,Animal;Animal;Woman;Man;Boy;Girl;Man,Outdoors,three_quarter_look_up;profile;profile;three_quarter_look_down;three_quarter_look_up;three_quarter_look_down;three_quarter_look_down,None;None;Poor;Poor;Poor;Poor;Middle Class,None,4.0,True
+1865_Les_aventures_de_Jean-Paul_Choppart,pg_74_img_1.jpg,gigi,Man;Man,Outdoors,three_quarter_look_up;three_quarter_look_down,Poor;Poor,None,1.0,True
