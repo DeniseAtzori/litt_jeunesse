@@ -6,7 +6,7 @@
 
 # Enfances bourgeoises
 
-### une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française (1833-1941)
+### Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française (1833-1941)
 
 Cette recherche porte sur les représentations des personnages dans 123 romans de la littérature de jeunesse française publiés entre 1833 et 1943. À l'intersection des humanités numériques et des études littéraires, elle interroge la manière dont le genre, la classe sociale et l'âge sont construits dans ces œuvres, en combinant méthodes computationnelles et lecture attentive. L'analyse textuelle s'appuie sur des outils de traitement automatique du langage — notamment le pipeline Propp du laboratoire LATTICE — pour extraire et caractériser les personnages. Elle est complétée par une analyse des illustrations, conduite à l'aide de modèles YOLO et de grands modèles de langage. Les résultats confirment et quantifient des tendances déjà signalées par la recherche : la séparation nette des rôles de genre, la prégnance de la morale bourgeoise, la place particulière des orphelins dans la narration. Cette étude propose un pipeline réutilisable et ouvert, pensé pour être étendu à des corpus plus larges et à d'autres traditions littéraires européennes.
 	
