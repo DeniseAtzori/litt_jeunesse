@@ -14,6 +14,16 @@ Cette recherche porte sur les représentations des personnages dans 123 romans d
 	
 **Informations bibliographiques:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1941)*, mémoire de master « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
 
+**Dans ce dossier:**
+
+<ul>
+    <li>Corpus_txt : romans du corpus</li>
+    <li>Corpus_propp : dictionnaires des personnages des romans élaborés par Propp-fr</li>
+    <li>Metadata : annotations manuelles ajoutées au cours des analyses</li>
+    <li>Notebooks : code produit lors des analyses</li>
+    <li>Results : poids, ensembles de données et résultats des modèles affinés ; résultats de l'annotation via GPT-5 mini et de l'annotation manuelle des illustrations</li>
+</ul>
+
 ---
 
 <a name="english"></a>
@@ -28,5 +38,13 @@ This research examines the portrayal of characters in 123 French children’s no
 	
 **Bibliographic information:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1941)*, master thesis « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
 
+**In this folder:**
 
+<ul>
+    <li>Corpus_txt: novels in the corpus</li>
+    <li>Corpus_propp: dictionaries of novel characters compiled by Propp-fr</li>
+    <li>Metadata: manual annotations added during the analyses</li>
+    <li>Notebooks: code generated during the analyses</li>
+    <li>Results: weights, datasets and results of the fine-tuned models; results of the annotation via GPT-5 mini and the manual annotation of the illustrations</li>
+</ul>
 
