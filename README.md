@@ -12,7 +12,7 @@ Cette recherche porte sur les représentations des personnages dans 123 romans d
 	
 **Mots-clés:** littérature de jeunesse ; littérature computationnelle ; personnage littéraire ; représentations de genre ; traitement automatique du langage ; analyse d'illustrations.
 	
-**Informations bibliographiques:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1941)*, mémoire de master « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
+**Informations bibliographiques:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1943)*, mémoire de master « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
 
 **Dans ce dossier:**
 
@@ -36,7 +36,7 @@ This research examines the portrayal of characters in 123 French children’s no
 	
 **Keywords:** children's literature; computational literature; literary characters; gender representations; natural language processing; illustration analysi.
 	
-**Bibliographic information:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1941)*, master thesis « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
+**Bibliographic information:** Denise Atzori, *Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française(1833-1943)*, master thesis « Humanités Numériques », dir. [Déborah Lévy-Bertherat, Thierry Poibeau], École nationale des chartes, 2026.
 
 **In this folder:**
 
